@@ -1,0 +1,6002 @@
+[
+  {
+    "timestamp": "2026-02-11T09:03:44.921Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 932
+  },
+  {
+    "timestamp": "2026-02-11T09:03:50.071Z",
+    "temperature": 28.9,
+    "humidity": 75.1,
+    "smoke": 977
+  },
+  {
+    "timestamp": "2026-02-11T09:03:54.955Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-11T09:04:00.080Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 979
+  },
+  {
+    "timestamp": "2026-02-11T09:04:04.991Z",
+    "temperature": 28.9,
+    "humidity": 75.1,
+    "smoke": 985
+  },
+  {
+    "timestamp": "2026-02-11T09:04:09.904Z",
+    "temperature": 28.9,
+    "humidity": 75.1,
+    "smoke": 983
+  },
+  {
+    "timestamp": "2026-02-11T09:04:15.268Z",
+    "temperature": 28.9,
+    "humidity": 75,
+    "smoke": 930
+  },
+  {
+    "timestamp": "2026-02-11T09:04:19.941Z",
+    "temperature": 28.9,
+    "humidity": 75,
+    "smoke": 923
+  },
+  {
+    "timestamp": "2026-02-11T09:04:25.099Z",
+    "temperature": 28.9,
+    "humidity": 75,
+    "smoke": 933
+  },
+  {
+    "timestamp": "2026-02-11T09:04:29.871Z",
+    "temperature": 28.9,
+    "humidity": 75,
+    "smoke": 950
+  },
+  {
+    "timestamp": "2026-02-11T09:04:34.911Z",
+    "temperature": 28.9,
+    "humidity": 74.9,
+    "smoke": 924
+  },
+  {
+    "timestamp": "2026-02-11T09:04:39.875Z",
+    "temperature": 28.9,
+    "humidity": 74.9,
+    "smoke": 881
+  },
+  {
+    "timestamp": "2026-02-11T09:04:44.908Z",
+    "temperature": 28.9,
+    "humidity": 74.9,
+    "smoke": 929
+  },
+  {
+    "timestamp": "2026-02-11T09:04:49.883Z",
+    "temperature": 28.9,
+    "humidity": 74.9,
+    "smoke": 927
+  },
+  {
+    "timestamp": "2026-02-11T09:04:54.894Z",
+    "temperature": 29,
+    "humidity": 74.8,
+    "smoke": 931
+  },
+  {
+    "timestamp": "2026-02-11T09:04:59.823Z",
+    "temperature": 29,
+    "humidity": 74.8,
+    "smoke": 934
+  },
+  {
+    "timestamp": "2026-02-11T09:05:04.946Z",
+    "temperature": 29,
+    "humidity": 74.8,
+    "smoke": 935
+  },
+  {
+    "timestamp": "2026-02-11T09:05:09.931Z",
+    "temperature": 29,
+    "humidity": 74.7,
+    "smoke": 936
+  },
+  {
+    "timestamp": "2026-02-11T09:05:15.044Z",
+    "temperature": 29,
+    "humidity": 74.7,
+    "smoke": 892
+  },
+  {
+    "timestamp": "2026-02-11T09:05:19.828Z",
+    "temperature": 29,
+    "humidity": 74.7,
+    "smoke": 901
+  },
+  {
+    "timestamp": "2026-02-11T09:05:24.910Z",
+    "temperature": 29,
+    "humidity": 74.7,
+    "smoke": 913
+  },
+  {
+    "timestamp": "2026-02-11T09:05:29.994Z",
+    "temperature": 29,
+    "humidity": 74.8,
+    "smoke": 907
+  },
+  {
+    "timestamp": "2026-02-11T09:05:34.938Z",
+    "temperature": 28.9,
+    "humidity": 74.9,
+    "smoke": 920
+  },
+  {
+    "timestamp": "2026-02-11T09:05:44.990Z",
+    "temperature": 28.9,
+    "humidity": 75,
+    "smoke": 972
+  },
+  {
+    "timestamp": "2026-02-11T09:05:49.844Z",
+    "temperature": 28.9,
+    "humidity": 75.3,
+    "smoke": 972
+  },
+  {
+    "timestamp": "2026-02-11T09:05:54.966Z",
+    "temperature": 28.9,
+    "humidity": 75.1,
+    "smoke": 972
+  },
+  {
+    "timestamp": "2026-02-11T09:05:59.882Z",
+    "temperature": 28.9,
+    "humidity": 75.1,
+    "smoke": 974
+  },
+  {
+    "timestamp": "2026-02-11T09:06:04.999Z",
+    "temperature": 28.9,
+    "humidity": 75.1,
+    "smoke": 972
+  },
+  {
+    "timestamp": "2026-02-11T09:06:09.915Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-11T09:06:14.830Z",
+    "temperature": 28.9,
+    "humidity": 75.1,
+    "smoke": 982
+  },
+  {
+    "timestamp": "2026-02-11T09:06:19.844Z",
+    "temperature": 28.9,
+    "humidity": 75.1,
+    "smoke": 980
+  },
+  {
+    "timestamp": "2026-02-11T09:06:24.829Z",
+    "temperature": 28.9,
+    "humidity": 75.1,
+    "smoke": 989
+  },
+  {
+    "timestamp": "2026-02-11T09:06:29.989Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 990
+  },
+  {
+    "timestamp": "2026-02-11T09:06:34.828Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 979
+  },
+  {
+    "timestamp": "2026-02-11T09:06:40.026Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 980
+  },
+  {
+    "timestamp": "2026-02-11T09:06:44.845Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-11T09:06:49.851Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-11T09:06:55.003Z",
+    "temperature": 28.9,
+    "humidity": 75.1,
+    "smoke": 980
+  },
+  {
+    "timestamp": "2026-02-11T09:06:59.893Z",
+    "temperature": 28.9,
+    "humidity": 75.1,
+    "smoke": 977
+  },
+  {
+    "timestamp": "2026-02-11T09:07:05.048Z",
+    "temperature": 28.9,
+    "humidity": 75.1,
+    "smoke": 980
+  },
+  {
+    "timestamp": "2026-02-11T09:07:09.835Z",
+    "temperature": 28.9,
+    "humidity": 75.1,
+    "smoke": 980
+  },
+  {
+    "timestamp": "2026-02-11T09:07:14.893Z",
+    "temperature": 28.9,
+    "humidity": 75.1,
+    "smoke": 983
+  },
+  {
+    "timestamp": "2026-02-11T09:07:20.028Z",
+    "temperature": 29,
+    "humidity": 75.2,
+    "smoke": 980
+  },
+  {
+    "timestamp": "2026-02-11T09:07:24.994Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 988
+  },
+  {
+    "timestamp": "2026-02-11T09:07:30.008Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 981
+  },
+  {
+    "timestamp": "2026-02-11T09:07:34.913Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 977
+  },
+  {
+    "timestamp": "2026-02-11T09:07:39.854Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 967
+  },
+  {
+    "timestamp": "2026-02-11T09:07:44.850Z",
+    "temperature": 28.9,
+    "humidity": 75.3,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-11T09:07:50.269Z",
+    "temperature": 28.9,
+    "humidity": 75.3,
+    "smoke": 995
+  },
+  {
+    "timestamp": "2026-02-11T09:07:55.084Z",
+    "temperature": 28.9,
+    "humidity": 75.3,
+    "smoke": 986
+  },
+  {
+    "timestamp": "2026-02-11T09:07:59.910Z",
+    "temperature": 29,
+    "humidity": 75.4,
+    "smoke": 985
+  },
+  {
+    "timestamp": "2026-02-11T09:08:05.026Z",
+    "temperature": 29,
+    "humidity": 75.4,
+    "smoke": 988
+  },
+  {
+    "timestamp": "2026-02-11T09:08:09.851Z",
+    "temperature": 29,
+    "humidity": 75.3,
+    "smoke": 988
+  },
+  {
+    "timestamp": "2026-02-11T09:08:14.863Z",
+    "temperature": 29,
+    "humidity": 75.2,
+    "smoke": 984
+  },
+  {
+    "timestamp": "2026-02-11T09:08:19.965Z",
+    "temperature": 29,
+    "humidity": 75.2,
+    "smoke": 992
+  },
+  {
+    "timestamp": "2026-02-11T09:08:30.025Z",
+    "temperature": 29,
+    "humidity": 75.2,
+    "smoke": 922
+  },
+  {
+    "timestamp": "2026-02-11T09:08:34.873Z",
+    "temperature": 29,
+    "humidity": 75.1,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-11T09:08:39.852Z",
+    "temperature": 29,
+    "humidity": 75,
+    "smoke": 906
+  },
+  {
+    "timestamp": "2026-02-11T09:08:44.967Z",
+    "temperature": 29,
+    "humidity": 75,
+    "smoke": 922
+  },
+  {
+    "timestamp": "2026-02-11T09:08:50.096Z",
+    "temperature": 29,
+    "humidity": 75.1,
+    "smoke": 929
+  },
+  {
+    "timestamp": "2026-02-11T09:08:54.995Z",
+    "temperature": 29,
+    "humidity": 75.2,
+    "smoke": 931
+  },
+  {
+    "timestamp": "2026-02-11T09:08:59.910Z",
+    "temperature": 28.9,
+    "humidity": 75.3,
+    "smoke": 921
+  },
+  {
+    "timestamp": "2026-02-11T09:09:04.811Z",
+    "temperature": 28.9,
+    "humidity": 75.4,
+    "smoke": 907
+  },
+  {
+    "timestamp": "2026-02-11T09:09:09.840Z",
+    "temperature": 28.9,
+    "humidity": 75.4,
+    "smoke": 925
+  },
+  {
+    "timestamp": "2026-02-11T09:09:14.854Z",
+    "temperature": 28.9,
+    "humidity": 75.5,
+    "smoke": 923
+  },
+  {
+    "timestamp": "2026-02-11T09:09:19.815Z",
+    "temperature": 28.9,
+    "humidity": 75.5,
+    "smoke": 925
+  },
+  {
+    "timestamp": "2026-02-11T09:09:24.896Z",
+    "temperature": 28.9,
+    "humidity": 75.5,
+    "smoke": 924
+  },
+  {
+    "timestamp": "2026-02-11T09:09:29.834Z",
+    "temperature": 28.9,
+    "humidity": 75.4,
+    "smoke": 920
+  },
+  {
+    "timestamp": "2026-02-11T09:09:34.850Z",
+    "temperature": 28.9,
+    "humidity": 75.5,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-11T09:09:40.035Z",
+    "temperature": 28.9,
+    "humidity": 75.4,
+    "smoke": 968
+  },
+  {
+    "timestamp": "2026-02-11T09:09:45.158Z",
+    "temperature": 28.9,
+    "humidity": 75.4,
+    "smoke": 931
+  },
+  {
+    "timestamp": "2026-02-11T09:09:49.900Z",
+    "temperature": 28.9,
+    "humidity": 75.3,
+    "smoke": 929
+  },
+  {
+    "timestamp": "2026-02-11T09:09:55.038Z",
+    "temperature": 28.9,
+    "humidity": 75.3,
+    "smoke": 932
+  },
+  {
+    "timestamp": "2026-02-11T09:09:59.970Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 934
+  },
+  {
+    "timestamp": "2026-02-11T09:10:05.038Z",
+    "temperature": 29,
+    "humidity": 75.2,
+    "smoke": 918
+  },
+  {
+    "timestamp": "2026-02-11T09:10:09.858Z",
+    "temperature": 29,
+    "humidity": 75.1,
+    "smoke": 937
+  },
+  {
+    "timestamp": "2026-02-11T09:10:14.879Z",
+    "temperature": 29,
+    "humidity": 75.1,
+    "smoke": 940
+  },
+  {
+    "timestamp": "2026-02-11T09:10:20.178Z",
+    "temperature": 29,
+    "humidity": 75.2,
+    "smoke": 939
+  },
+  {
+    "timestamp": "2026-02-11T09:10:24.889Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 939
+  },
+  {
+    "timestamp": "2026-02-11T09:10:30.044Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 838
+  },
+  {
+    "timestamp": "2026-02-11T09:10:34.817Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 847
+  },
+  {
+    "timestamp": "2026-02-11T09:10:39.891Z",
+    "temperature": 28.9,
+    "humidity": 75.3,
+    "smoke": 847
+  },
+  {
+    "timestamp": "2026-02-11T09:10:45.199Z",
+    "temperature": 29,
+    "humidity": 75.2,
+    "smoke": 852
+  },
+  {
+    "timestamp": "2026-02-11T09:11:09.534Z",
+    "temperature": 28.9,
+    "humidity": 75.4,
+    "smoke": 928
+  },
+  {
+    "timestamp": "2026-02-11T09:11:13.911Z",
+    "temperature": 28.9,
+    "humidity": 75.3,
+    "smoke": 933
+  },
+  {
+    "timestamp": "2026-02-11T09:11:18.896Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 930
+  },
+  {
+    "timestamp": "2026-02-11T09:11:24.129Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 919
+  },
+  {
+    "timestamp": "2026-02-11T09:11:29.016Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 918
+  },
+  {
+    "timestamp": "2026-02-11T09:11:34.109Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 946
+  },
+  {
+    "timestamp": "2026-02-11T09:11:38.937Z",
+    "temperature": 29,
+    "humidity": 75.2,
+    "smoke": 846
+  },
+  {
+    "timestamp": "2026-02-11T09:11:43.948Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 933
+  },
+  {
+    "timestamp": "2026-02-11T09:11:48.899Z",
+    "temperature": 29,
+    "humidity": 75.1,
+    "smoke": 931
+  },
+  {
+    "timestamp": "2026-02-11T09:11:53.977Z",
+    "temperature": 29,
+    "humidity": 75,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-11T09:11:59.094Z",
+    "temperature": 29,
+    "humidity": 75,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-11T09:12:04.015Z",
+    "temperature": 29,
+    "humidity": 75,
+    "smoke": 933
+  },
+  {
+    "timestamp": "2026-02-11T09:12:08.927Z",
+    "temperature": 28.9,
+    "humidity": 75,
+    "smoke": 954
+  },
+  {
+    "timestamp": "2026-02-11T09:12:13.894Z",
+    "temperature": 29,
+    "humidity": 75.1,
+    "smoke": 958
+  },
+  {
+    "timestamp": "2026-02-11T09:12:18.897Z",
+    "temperature": 29,
+    "humidity": 75.1,
+    "smoke": 954
+  },
+  {
+    "timestamp": "2026-02-11T09:12:24.097Z",
+    "temperature": 29,
+    "humidity": 75,
+    "smoke": 747
+  },
+  {
+    "timestamp": "2026-02-11T09:12:28.997Z",
+    "temperature": 29,
+    "humidity": 75,
+    "smoke": 907
+  },
+  {
+    "timestamp": "2026-02-11T09:12:33.937Z",
+    "temperature": 29,
+    "humidity": 74.9,
+    "smoke": 855
+  },
+  {
+    "timestamp": "2026-02-11T09:12:38.895Z",
+    "temperature": 29,
+    "humidity": 74.9,
+    "smoke": 850
+  },
+  {
+    "timestamp": "2026-02-11T09:12:43.884Z",
+    "temperature": 29,
+    "humidity": 74.9,
+    "smoke": 821
+  },
+  {
+    "timestamp": "2026-02-11T09:12:49.079Z",
+    "temperature": 29,
+    "humidity": 74.9,
+    "smoke": 847
+  },
+  {
+    "timestamp": "2026-02-11T09:12:54.414Z",
+    "temperature": 29,
+    "humidity": 74.9,
+    "smoke": 843
+  },
+  {
+    "timestamp": "2026-02-11T09:12:58.920Z",
+    "temperature": 28.9,
+    "humidity": 74.9,
+    "smoke": 866
+  },
+  {
+    "timestamp": "2026-02-11T09:13:04.104Z",
+    "temperature": 29,
+    "humidity": 74.9,
+    "smoke": 855
+  },
+  {
+    "timestamp": "2026-02-11T09:13:09.152Z",
+    "temperature": 28.9,
+    "humidity": 74.9,
+    "smoke": 828
+  },
+  {
+    "timestamp": "2026-02-11T09:13:14.071Z",
+    "temperature": 28.9,
+    "humidity": 74.9,
+    "smoke": 831
+  },
+  {
+    "timestamp": "2026-02-11T09:13:18.966Z",
+    "temperature": 28.9,
+    "humidity": 74.9,
+    "smoke": 833
+  },
+  {
+    "timestamp": "2026-02-11T09:13:24.118Z",
+    "temperature": 28.9,
+    "humidity": 74.9,
+    "smoke": 835
+  },
+  {
+    "timestamp": "2026-02-11T09:18:42.984Z",
+    "temperature": 28.4,
+    "humidity": 76.7,
+    "smoke": 984
+  },
+  {
+    "timestamp": "2026-02-11T09:18:47.897Z",
+    "temperature": 28.5,
+    "humidity": 76.5,
+    "smoke": 984
+  },
+  {
+    "timestamp": "2026-02-11T09:18:52.703Z",
+    "temperature": 28.5,
+    "humidity": 76.3,
+    "smoke": 983
+  },
+  {
+    "timestamp": "2026-02-11T09:18:57.728Z",
+    "temperature": 28.5,
+    "humidity": 76.4,
+    "smoke": 902
+  },
+  {
+    "timestamp": "2026-02-11T09:19:03.245Z",
+    "temperature": 28.6,
+    "humidity": 76.3,
+    "smoke": 905
+  },
+  {
+    "timestamp": "2026-02-11T09:19:08.161Z",
+    "temperature": 28.6,
+    "humidity": 76.2,
+    "smoke": 888
+  },
+  {
+    "timestamp": "2026-02-11T09:19:13.279Z",
+    "temperature": 28.6,
+    "humidity": 76,
+    "smoke": 874
+  },
+  {
+    "timestamp": "2026-02-11T09:19:18.196Z",
+    "temperature": 28.6,
+    "humidity": 76,
+    "smoke": 871
+  },
+  {
+    "timestamp": "2026-02-11T09:19:22.915Z",
+    "temperature": 28.7,
+    "humidity": 76.1,
+    "smoke": 881
+  },
+  {
+    "timestamp": "2026-02-11T09:19:27.726Z",
+    "temperature": 28.7,
+    "humidity": 75.8,
+    "smoke": 979
+  },
+  {
+    "timestamp": "2026-02-11T09:19:32.836Z",
+    "temperature": 28.8,
+    "humidity": 75.6,
+    "smoke": 977
+  },
+  {
+    "timestamp": "2026-02-11T09:19:37.708Z",
+    "temperature": 28.8,
+    "humidity": 75.4,
+    "smoke": 980
+  },
+  {
+    "timestamp": "2026-02-11T09:19:42.700Z",
+    "temperature": 28.9,
+    "humidity": 75.2,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-11T09:19:47.743Z",
+    "temperature": 29,
+    "humidity": 75,
+    "smoke": 971
+  },
+  {
+    "timestamp": "2026-02-11T09:19:52.813Z",
+    "temperature": 29,
+    "humidity": 74.8,
+    "smoke": 965
+  },
+  {
+    "timestamp": "2026-02-11T09:19:57.929Z",
+    "temperature": 29.1,
+    "humidity": 74.6,
+    "smoke": 957
+  },
+  {
+    "timestamp": "2026-02-11T09:20:02.855Z",
+    "temperature": 29.1,
+    "humidity": 74.5,
+    "smoke": 959
+  },
+  {
+    "timestamp": "2026-02-11T09:20:07.780Z",
+    "temperature": 29.2,
+    "humidity": 74.3,
+    "smoke": 961
+  },
+  {
+    "timestamp": "2026-02-11T09:20:12.863Z",
+    "temperature": 29.2,
+    "humidity": 74.2,
+    "smoke": 942
+  },
+  {
+    "timestamp": "2026-02-11T09:20:17.799Z",
+    "temperature": 29.2,
+    "humidity": 74.1,
+    "smoke": 942
+  },
+  {
+    "timestamp": "2026-02-11T09:20:22.916Z",
+    "temperature": 29.3,
+    "humidity": 73.9,
+    "smoke": 953
+  },
+  {
+    "timestamp": "2026-02-11T09:20:27.729Z",
+    "temperature": 29.3,
+    "humidity": 73.8,
+    "smoke": 816
+  },
+  {
+    "timestamp": "2026-02-11T09:20:32.709Z",
+    "temperature": 29.3,
+    "humidity": 73.7,
+    "smoke": 789
+  },
+  {
+    "timestamp": "2026-02-11T09:20:37.717Z",
+    "temperature": 29.4,
+    "humidity": 73.6,
+    "smoke": 804
+  },
+  {
+    "timestamp": "2026-02-11T09:20:42.786Z",
+    "temperature": 29.4,
+    "humidity": 73.5,
+    "smoke": 840
+  },
+  {
+    "timestamp": "2026-02-11T09:20:47.908Z",
+    "temperature": 29.5,
+    "humidity": 73.5,
+    "smoke": 953
+  },
+  {
+    "timestamp": "2026-02-11T09:20:52.817Z",
+    "temperature": 29.5,
+    "humidity": 73.7,
+    "smoke": 868
+  },
+  {
+    "timestamp": "2026-02-11T09:20:57.731Z",
+    "temperature": 29.6,
+    "humidity": 73.5,
+    "smoke": 842
+  },
+  {
+    "timestamp": "2026-02-11T09:21:02.717Z",
+    "temperature": 29.6,
+    "humidity": 73.5,
+    "smoke": 942
+  },
+  {
+    "timestamp": "2026-02-11T09:21:07.763Z",
+    "temperature": 29.7,
+    "humidity": 73.6,
+    "smoke": 838
+  },
+  {
+    "timestamp": "2026-02-11T09:21:12.707Z",
+    "temperature": 29.7,
+    "humidity": 72.6,
+    "smoke": 863
+  },
+  {
+    "timestamp": "2026-02-11T09:21:17.813Z",
+    "temperature": 29.8,
+    "humidity": 72.5,
+    "smoke": 868
+  },
+  {
+    "timestamp": "2026-02-11T09:21:22.922Z",
+    "temperature": 29.8,
+    "humidity": 72.3,
+    "smoke": 866
+  },
+  {
+    "timestamp": "2026-02-11T09:21:27.728Z",
+    "temperature": 29.8,
+    "humidity": 72.1,
+    "smoke": 859
+  },
+  {
+    "timestamp": "2026-02-11T09:21:32.716Z",
+    "temperature": 29.8,
+    "humidity": 72.1,
+    "smoke": 860
+  },
+  {
+    "timestamp": "2026-02-11T09:21:37.717Z",
+    "temperature": 29.8,
+    "humidity": 72.2,
+    "smoke": 859
+  },
+  {
+    "timestamp": "2026-02-11T09:21:42.785Z",
+    "temperature": 29.8,
+    "humidity": 72.2,
+    "smoke": 862
+  },
+  {
+    "timestamp": "2026-02-11T09:21:47.906Z",
+    "temperature": 29.8,
+    "humidity": 72.4,
+    "smoke": 870
+  },
+  {
+    "timestamp": "2026-02-11T09:21:52.827Z",
+    "temperature": 29.8,
+    "humidity": 72.2,
+    "smoke": 863
+  },
+  {
+    "timestamp": "2026-02-11T09:21:57.735Z",
+    "temperature": 29.9,
+    "humidity": 72.3,
+    "smoke": 864
+  },
+  {
+    "timestamp": "2026-02-11T09:22:02.728Z",
+    "temperature": 29.9,
+    "humidity": 72.2,
+    "smoke": 873
+  },
+  {
+    "timestamp": "2026-02-11T09:22:07.769Z",
+    "temperature": 29.9,
+    "humidity": 72.1,
+    "smoke": 871
+  },
+  {
+    "timestamp": "2026-02-11T09:22:12.892Z",
+    "temperature": 29.9,
+    "humidity": 72.3,
+    "smoke": 867
+  },
+  {
+    "timestamp": "2026-02-11T09:22:17.809Z",
+    "temperature": 29.9,
+    "humidity": 72.1,
+    "smoke": 867
+  },
+  {
+    "timestamp": "2026-02-11T09:22:22.690Z",
+    "temperature": 29.9,
+    "humidity": 72,
+    "smoke": 872
+  },
+  {
+    "timestamp": "2026-02-11T09:22:27.851Z",
+    "temperature": 29.9,
+    "humidity": 71.9,
+    "smoke": 873
+  },
+  {
+    "timestamp": "2026-02-11T09:22:32.740Z",
+    "temperature": 29.9,
+    "humidity": 72,
+    "smoke": 895
+  },
+  {
+    "timestamp": "2026-02-11T09:22:37.858Z",
+    "temperature": 29.9,
+    "humidity": 71.9,
+    "smoke": 932
+  },
+  {
+    "timestamp": "2026-02-12T03:50:30.334Z",
+    "temperature": 28.9,
+    "humidity": 44.8,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:50:35.226Z",
+    "temperature": 28.9,
+    "humidity": 44.4,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:50:40.377Z",
+    "temperature": 28.9,
+    "humidity": 44.2,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:50:45.057Z",
+    "temperature": 28.9,
+    "humidity": 44.6,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:50:50.179Z",
+    "temperature": 28.9,
+    "humidity": 47.4,
+    "smoke": 896
+  },
+  {
+    "timestamp": "2026-02-12T03:50:55.089Z",
+    "temperature": 28.9,
+    "humidity": 46.6,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:51:00.031Z",
+    "temperature": 29,
+    "humidity": 46.8,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:51:05.042Z",
+    "temperature": 29,
+    "humidity": 46,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:51:10.259Z",
+    "temperature": 29.1,
+    "humidity": 73.3,
+    "smoke": 983
+  },
+  {
+    "timestamp": "2026-02-12T03:51:15.023Z",
+    "temperature": 29.2,
+    "humidity": 81,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:51:20.089Z",
+    "temperature": 29.3,
+    "humidity": 83.6,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:51:25.204Z",
+    "temperature": 29.4,
+    "humidity": 79.8,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:51:30.065Z",
+    "temperature": 29.3,
+    "humidity": 60.2,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:51:35.241Z",
+    "temperature": 29.2,
+    "humidity": 51.4,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:51:40.036Z",
+    "temperature": 29.1,
+    "humidity": 48.4,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:51:45.061Z",
+    "temperature": 29,
+    "humidity": 47.6,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:51:50.188Z",
+    "temperature": 29,
+    "humidity": 47,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:51:55.296Z",
+    "temperature": 28.9,
+    "humidity": 46.6,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:52:00.224Z",
+    "temperature": 28.8,
+    "humidity": 46.2,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:52:05.053Z",
+    "temperature": 28.7,
+    "humidity": 46.3,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:52:10.271Z",
+    "temperature": 28.6,
+    "humidity": 46,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:52:15.198Z",
+    "temperature": 28.5,
+    "humidity": 45.9,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:52:20.104Z",
+    "temperature": 28.4,
+    "humidity": 45.6,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:52:25.228Z",
+    "temperature": 28.4,
+    "humidity": 45.5,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:52:30.222Z",
+    "temperature": 28.3,
+    "humidity": 45.5,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:52:35.179Z",
+    "temperature": 28.2,
+    "humidity": 45.9,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:52:40.183Z",
+    "temperature": 28.2,
+    "humidity": 45.8,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:52:45.738Z",
+    "temperature": 28.1,
+    "humidity": 45.8,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-12T03:52:50.856Z",
+    "temperature": 28,
+    "humidity": 45.7,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T02:39:16.253Z",
+    "temperature": 34.6,
+    "humidity": 38.7,
+    "smoke": 703
+  },
+  {
+    "timestamp": "2026-02-13T02:39:20.529Z",
+    "temperature": 34.5,
+    "humidity": 38.6,
+    "smoke": 606
+  },
+  {
+    "timestamp": "2026-02-13T02:39:25.515Z",
+    "temperature": 34.4,
+    "humidity": 39.5,
+    "smoke": 624
+  },
+  {
+    "timestamp": "2026-02-13T02:39:30.520Z",
+    "temperature": 34.3,
+    "humidity": 39.7,
+    "smoke": 610
+  },
+  {
+    "timestamp": "2026-02-13T02:39:35.525Z",
+    "temperature": 34.2,
+    "humidity": 40,
+    "smoke": 566
+  },
+  {
+    "timestamp": "2026-02-13T02:39:40.541Z",
+    "temperature": 34.2,
+    "humidity": 41.7,
+    "smoke": 577
+  },
+  {
+    "timestamp": "2026-02-13T02:39:45.658Z",
+    "temperature": 34.1,
+    "humidity": 41.6,
+    "smoke": 583
+  },
+  {
+    "timestamp": "2026-02-13T02:39:50.573Z",
+    "temperature": 34,
+    "humidity": 41.8,
+    "smoke": 607
+  },
+  {
+    "timestamp": "2026-02-13T02:39:55.902Z",
+    "temperature": 33.9,
+    "humidity": 40.9,
+    "smoke": 536
+  },
+  {
+    "timestamp": "2026-02-13T02:40:00.513Z",
+    "temperature": 33.8,
+    "humidity": 40.5,
+    "smoke": 526
+  },
+  {
+    "timestamp": "2026-02-13T02:40:05.719Z",
+    "temperature": 33.7,
+    "humidity": 40.9,
+    "smoke": 531
+  },
+  {
+    "timestamp": "2026-02-13T02:40:10.545Z",
+    "temperature": 33.6,
+    "humidity": 40.7,
+    "smoke": 540
+  },
+  {
+    "timestamp": "2026-02-13T02:40:15.567Z",
+    "temperature": 33.4,
+    "humidity": 41.5,
+    "smoke": 563
+  },
+  {
+    "timestamp": "2026-02-13T02:40:20.982Z",
+    "temperature": 33.3,
+    "humidity": 41.6,
+    "smoke": 641
+  },
+  {
+    "timestamp": "2026-02-13T02:40:25.583Z",
+    "temperature": 33.2,
+    "humidity": 42.6,
+    "smoke": 737
+  },
+  {
+    "timestamp": "2026-02-13T02:40:30.711Z",
+    "temperature": 33.1,
+    "humidity": 43.1,
+    "smoke": 815
+  },
+  {
+    "timestamp": "2026-02-13T02:40:35.557Z",
+    "temperature": 33.1,
+    "humidity": 44.4,
+    "smoke": 810
+  },
+  {
+    "timestamp": "2026-02-13T02:40:40.520Z",
+    "temperature": 33,
+    "humidity": 42.8,
+    "smoke": 652
+  },
+  {
+    "timestamp": "2026-02-13T02:40:45.514Z",
+    "temperature": 32.9,
+    "humidity": 42.6,
+    "smoke": 624
+  },
+  {
+    "timestamp": "2026-02-13T02:40:50.524Z",
+    "temperature": 32.9,
+    "humidity": 44.3,
+    "smoke": 703
+  },
+  {
+    "timestamp": "2026-02-13T02:40:55.685Z",
+    "temperature": 32.8,
+    "humidity": 43,
+    "smoke": 661
+  },
+  {
+    "timestamp": "2026-02-13T02:41:00.814Z",
+    "temperature": 32.7,
+    "humidity": 44.6,
+    "smoke": 641
+  },
+  {
+    "timestamp": "2026-02-13T02:41:05.524Z",
+    "temperature": 32.7,
+    "humidity": 42.9,
+    "smoke": 574
+  },
+  {
+    "timestamp": "2026-02-13T02:41:10.546Z",
+    "temperature": 32.7,
+    "humidity": 43.7,
+    "smoke": 551
+  },
+  {
+    "timestamp": "2026-02-13T02:41:15.549Z",
+    "temperature": 32.7,
+    "humidity": 42.8,
+    "smoke": 511
+  },
+  {
+    "timestamp": "2026-02-13T02:41:20.534Z",
+    "temperature": 32.6,
+    "humidity": 42.9,
+    "smoke": 525
+  },
+  {
+    "timestamp": "2026-02-13T02:41:25.802Z",
+    "temperature": 32.6,
+    "humidity": 42.6,
+    "smoke": 531
+  },
+  {
+    "timestamp": "2026-02-13T02:41:30.553Z",
+    "temperature": 32.5,
+    "humidity": 42.3,
+    "smoke": 485
+  },
+  {
+    "timestamp": "2026-02-13T02:41:35.621Z",
+    "temperature": 32.5,
+    "humidity": 42,
+    "smoke": 344
+  },
+  {
+    "timestamp": "2026-02-13T02:41:40.748Z",
+    "temperature": 32.5,
+    "humidity": 42.2,
+    "smoke": 206
+  },
+  {
+    "timestamp": "2026-02-13T02:41:45.615Z",
+    "temperature": 32.5,
+    "humidity": 42.5,
+    "smoke": 200
+  },
+  {
+    "timestamp": "2026-02-13T02:41:50.779Z",
+    "temperature": 32.5,
+    "humidity": 42.1,
+    "smoke": 229
+  },
+  {
+    "timestamp": "2026-02-13T02:41:55.771Z",
+    "temperature": 32.5,
+    "humidity": 42.1,
+    "smoke": 217
+  },
+  {
+    "timestamp": "2026-02-13T02:42:00.546Z",
+    "temperature": 32.5,
+    "humidity": 42.5,
+    "smoke": 291
+  },
+  {
+    "timestamp": "2026-02-13T02:42:05.557Z",
+    "temperature": 32.4,
+    "humidity": 42,
+    "smoke": 257
+  },
+  {
+    "timestamp": "2026-02-13T02:42:10.650Z",
+    "temperature": 32.4,
+    "humidity": 41.9,
+    "smoke": 289
+  },
+  {
+    "timestamp": "2026-02-13T02:42:15.543Z",
+    "temperature": 32.4,
+    "humidity": 42,
+    "smoke": 458
+  },
+  {
+    "timestamp": "2026-02-13T02:42:20.603Z",
+    "temperature": 32.5,
+    "humidity": 41.9,
+    "smoke": 454
+  },
+  {
+    "timestamp": "2026-02-13T02:42:25.867Z",
+    "temperature": 32.6,
+    "humidity": 42.3,
+    "smoke": 452
+  },
+  {
+    "timestamp": "2026-02-13T02:42:30.718Z",
+    "temperature": 32.6,
+    "humidity": 41.8,
+    "smoke": 443
+  },
+  {
+    "timestamp": "2026-02-13T02:42:35.558Z",
+    "temperature": 32.7,
+    "humidity": 41.9,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T02:42:40.663Z",
+    "temperature": 32.8,
+    "humidity": 42.1,
+    "smoke": 997
+  },
+  {
+    "timestamp": "2026-02-13T02:42:45.538Z",
+    "temperature": 32.9,
+    "humidity": 41.4,
+    "smoke": 985
+  },
+  {
+    "timestamp": "2026-02-13T02:42:50.588Z",
+    "temperature": 33,
+    "humidity": 41.5,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T02:42:55.733Z",
+    "temperature": 33.1,
+    "humidity": 41.4,
+    "smoke": 981
+  },
+  {
+    "timestamp": "2026-02-13T02:43:00.510Z",
+    "temperature": 33.2,
+    "humidity": 41.1,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T02:43:05.548Z",
+    "temperature": 33.3,
+    "humidity": 40.9,
+    "smoke": 982
+  },
+  {
+    "timestamp": "2026-02-13T02:46:18.864Z",
+    "temperature": 33.8,
+    "humidity": 41,
+    "smoke": 923
+  },
+  {
+    "timestamp": "2026-02-13T02:46:23.484Z",
+    "temperature": 33.7,
+    "humidity": 41.1,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T02:46:28.456Z",
+    "temperature": 33.7,
+    "humidity": 41.2,
+    "smoke": 941
+  },
+  {
+    "timestamp": "2026-02-13T02:46:33.621Z",
+    "temperature": 33.6,
+    "humidity": 41.1,
+    "smoke": 924
+  },
+  {
+    "timestamp": "2026-02-13T02:46:38.481Z",
+    "temperature": 33.6,
+    "humidity": 41,
+    "smoke": 933
+  },
+  {
+    "timestamp": "2026-02-13T02:46:43.449Z",
+    "temperature": 33.5,
+    "humidity": 41,
+    "smoke": 918
+  },
+  {
+    "timestamp": "2026-02-13T02:46:48.430Z",
+    "temperature": 33.4,
+    "humidity": 41,
+    "smoke": 931
+  },
+  {
+    "timestamp": "2026-02-13T02:46:53.694Z",
+    "temperature": 33.4,
+    "humidity": 41.8,
+    "smoke": 894
+  },
+  {
+    "timestamp": "2026-02-13T02:46:59.019Z",
+    "temperature": 33.4,
+    "humidity": 41.4,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T02:47:03.412Z",
+    "temperature": 33.4,
+    "humidity": 41.4,
+    "smoke": 882
+  },
+  {
+    "timestamp": "2026-02-13T02:47:08.638Z",
+    "temperature": 33.4,
+    "humidity": 42.5,
+    "smoke": 850
+  },
+  {
+    "timestamp": "2026-02-13T02:47:13.426Z",
+    "temperature": 33.5,
+    "humidity": 43,
+    "smoke": 864
+  },
+  {
+    "timestamp": "2026-02-13T02:47:18.674Z",
+    "temperature": 33.6,
+    "humidity": 42.8,
+    "smoke": 870
+  },
+  {
+    "timestamp": "2026-02-13T02:47:23.575Z",
+    "temperature": 33.7,
+    "humidity": 43.5,
+    "smoke": 867
+  },
+  {
+    "timestamp": "2026-02-13T02:47:28.449Z",
+    "temperature": 33.8,
+    "humidity": 43.7,
+    "smoke": 868
+  },
+  {
+    "timestamp": "2026-02-13T02:47:33.424Z",
+    "temperature": 34,
+    "humidity": 43.3,
+    "smoke": 911
+  },
+  {
+    "timestamp": "2026-02-13T02:47:38.530Z",
+    "temperature": 34.1,
+    "humidity": 42.9,
+    "smoke": 902
+  },
+  {
+    "timestamp": "2026-02-13T02:47:43.652Z",
+    "temperature": 34.2,
+    "humidity": 43.8,
+    "smoke": 893
+  },
+  {
+    "timestamp": "2026-02-13T02:47:48.571Z",
+    "temperature": 34.3,
+    "humidity": 42.5,
+    "smoke": 894
+  },
+  {
+    "timestamp": "2026-02-13T02:47:53.493Z",
+    "temperature": 34.4,
+    "humidity": 42.4,
+    "smoke": 892
+  },
+  {
+    "timestamp": "2026-02-13T02:47:58.833Z",
+    "temperature": 34.5,
+    "humidity": 41.3,
+    "smoke": 894
+  },
+  {
+    "timestamp": "2026-02-13T02:48:03.412Z",
+    "temperature": 34.6,
+    "humidity": 40.9,
+    "smoke": 894
+  },
+  {
+    "timestamp": "2026-02-13T02:48:08.644Z",
+    "temperature": 34.6,
+    "humidity": 41.5,
+    "smoke": 879
+  },
+  {
+    "timestamp": "2026-02-13T02:48:13.562Z",
+    "temperature": 34.6,
+    "humidity": 42.5,
+    "smoke": 894
+  },
+  {
+    "timestamp": "2026-02-13T02:48:18.459Z",
+    "temperature": 34.7,
+    "humidity": 43.5,
+    "smoke": 879
+  },
+  {
+    "timestamp": "2026-02-13T02:48:23.434Z",
+    "temperature": 34.7,
+    "humidity": 44.4,
+    "smoke": 866
+  },
+  {
+    "timestamp": "2026-02-13T02:48:28.447Z",
+    "temperature": 34.7,
+    "humidity": 45.6,
+    "smoke": 889
+  },
+  {
+    "timestamp": "2026-02-13T02:48:33.631Z",
+    "temperature": 34.7,
+    "humidity": 43.5,
+    "smoke": 884
+  },
+  {
+    "timestamp": "2026-02-13T02:48:38.464Z",
+    "temperature": 34.7,
+    "humidity": 45,
+    "smoke": 883
+  },
+  {
+    "timestamp": "2026-02-13T02:48:43.442Z",
+    "temperature": 34.7,
+    "humidity": 44.6,
+    "smoke": 930
+  },
+  {
+    "timestamp": "2026-02-13T02:48:48.474Z",
+    "temperature": 34.6,
+    "humidity": 42.5,
+    "smoke": 928
+  },
+  {
+    "timestamp": "2026-02-13T02:48:53.693Z",
+    "temperature": 34.5,
+    "humidity": 44,
+    "smoke": 928
+  },
+  {
+    "timestamp": "2026-02-13T02:48:58.435Z",
+    "temperature": 34.4,
+    "humidity": 43.4,
+    "smoke": 929
+  },
+  {
+    "timestamp": "2026-02-13T02:49:03.517Z",
+    "temperature": 34.4,
+    "humidity": 43.1,
+    "smoke": 929
+  },
+  {
+    "timestamp": "2026-02-13T02:49:08.636Z",
+    "temperature": 34.3,
+    "humidity": 42.8,
+    "smoke": 932
+  },
+  {
+    "timestamp": "2026-02-13T02:49:13.448Z",
+    "temperature": 34.3,
+    "humidity": 43.9,
+    "smoke": 801
+  },
+  {
+    "timestamp": "2026-02-13T02:49:18.464Z",
+    "temperature": 34.2,
+    "humidity": 45.1,
+    "smoke": 937
+  },
+  {
+    "timestamp": "2026-02-13T02:49:23.582Z",
+    "temperature": 34.2,
+    "humidity": 44.2,
+    "smoke": 942
+  },
+  {
+    "timestamp": "2026-02-13T02:49:28.950Z",
+    "temperature": 34.2,
+    "humidity": 43,
+    "smoke": 957
+  },
+  {
+    "timestamp": "2026-02-13T02:49:34.133Z",
+    "temperature": 34.1,
+    "humidity": 42.6,
+    "smoke": 940
+  },
+  {
+    "timestamp": "2026-02-13T02:49:38.829Z",
+    "temperature": 34.1,
+    "humidity": 42.7,
+    "smoke": 962
+  },
+  {
+    "timestamp": "2026-02-13T02:49:43.425Z",
+    "temperature": 34.1,
+    "humidity": 43.7,
+    "smoke": 959
+  },
+  {
+    "timestamp": "2026-02-13T02:49:48.425Z",
+    "temperature": 34,
+    "humidity": 43.6,
+    "smoke": 958
+  },
+  {
+    "timestamp": "2026-02-13T02:49:53.501Z",
+    "temperature": 34,
+    "humidity": 43.1,
+    "smoke": 959
+  },
+  {
+    "timestamp": "2026-02-13T02:49:58.614Z",
+    "temperature": 34,
+    "humidity": 43.5,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-13T02:50:03.522Z",
+    "temperature": 34.1,
+    "humidity": 43.9,
+    "smoke": 949
+  },
+  {
+    "timestamp": "2026-02-13T02:50:08.441Z",
+    "temperature": 34.1,
+    "humidity": 44.9,
+    "smoke": 949
+  },
+  {
+    "timestamp": "2026-02-13T02:50:13.560Z",
+    "temperature": 34.2,
+    "humidity": 44.8,
+    "smoke": 952
+  },
+  {
+    "timestamp": "2026-02-13T02:50:18.479Z",
+    "temperature": 34.2,
+    "humidity": 44.4,
+    "smoke": 962
+  },
+  {
+    "timestamp": "2026-02-13T02:50:23.595Z",
+    "temperature": 34.3,
+    "humidity": 43.6,
+    "smoke": 964
+  },
+  {
+    "timestamp": "2026-02-13T02:50:28.525Z",
+    "temperature": 34.3,
+    "humidity": 43.1,
+    "smoke": 961
+  },
+  {
+    "timestamp": "2026-02-13T02:50:33.631Z",
+    "temperature": 34.3,
+    "humidity": 41.5,
+    "smoke": 944
+  },
+  {
+    "timestamp": "2026-02-13T02:50:38.460Z",
+    "temperature": 34.3,
+    "humidity": 42,
+    "smoke": 965
+  },
+  {
+    "timestamp": "2026-02-13T02:50:43.689Z",
+    "temperature": 34.4,
+    "humidity": 41.6,
+    "smoke": 961
+  },
+  {
+    "timestamp": "2026-02-13T02:50:48.597Z",
+    "temperature": 34.4,
+    "humidity": 41.8,
+    "smoke": 972
+  },
+  {
+    "timestamp": "2026-02-13T02:50:53.723Z",
+    "temperature": 34.4,
+    "humidity": 41.9,
+    "smoke": 972
+  },
+  {
+    "timestamp": "2026-02-13T02:50:58.630Z",
+    "temperature": 34.3,
+    "humidity": 42.8,
+    "smoke": 955
+  },
+  {
+    "timestamp": "2026-02-13T02:51:03.447Z",
+    "temperature": 34.3,
+    "humidity": 44.6,
+    "smoke": 972
+  },
+  {
+    "timestamp": "2026-02-13T02:51:08.663Z",
+    "temperature": 34.2,
+    "humidity": 43.3,
+    "smoke": 969
+  },
+  {
+    "timestamp": "2026-02-13T02:51:13.452Z",
+    "temperature": 34.3,
+    "humidity": 46.4,
+    "smoke": 970
+  },
+  {
+    "timestamp": "2026-02-13T02:51:18.485Z",
+    "temperature": 34.3,
+    "humidity": 44.6,
+    "smoke": 980
+  },
+  {
+    "timestamp": "2026-02-13T02:51:23.594Z",
+    "temperature": 34.3,
+    "humidity": 44.5,
+    "smoke": 955
+  },
+  {
+    "timestamp": "2026-02-13T02:51:28.432Z",
+    "temperature": 34.3,
+    "humidity": 44.1,
+    "smoke": 950
+  },
+  {
+    "timestamp": "2026-02-13T02:51:33.637Z",
+    "temperature": 34.3,
+    "humidity": 44.9,
+    "smoke": 952
+  },
+  {
+    "timestamp": "2026-02-13T02:51:38.566Z",
+    "temperature": 34.3,
+    "humidity": 43.7,
+    "smoke": 953
+  },
+  {
+    "timestamp": "2026-02-13T02:51:43.471Z",
+    "temperature": 34.3,
+    "humidity": 45.3,
+    "smoke": 943
+  },
+  {
+    "timestamp": "2026-02-13T02:51:48.576Z",
+    "temperature": 34.2,
+    "humidity": 44.4,
+    "smoke": 890
+  },
+  {
+    "timestamp": "2026-02-13T02:51:53.732Z",
+    "temperature": 34.2,
+    "humidity": 44.3,
+    "smoke": 878
+  },
+  {
+    "timestamp": "2026-02-13T02:51:58.632Z",
+    "temperature": 34.2,
+    "humidity": 43.9,
+    "smoke": 892
+  },
+  {
+    "timestamp": "2026-02-13T02:52:03.539Z",
+    "temperature": 34.1,
+    "humidity": 43.8,
+    "smoke": 860
+  },
+  {
+    "timestamp": "2026-02-13T02:52:08.441Z",
+    "temperature": 34.1,
+    "humidity": 45.3,
+    "smoke": 859
+  },
+  {
+    "timestamp": "2026-02-13T02:52:13.570Z",
+    "temperature": 34,
+    "humidity": 45.9,
+    "smoke": 878
+  },
+  {
+    "timestamp": "2026-02-13T02:52:18.765Z",
+    "temperature": 34,
+    "humidity": 44.4,
+    "smoke": 879
+  },
+  {
+    "timestamp": "2026-02-13T02:52:23.838Z",
+    "temperature": 34,
+    "humidity": 43.5,
+    "smoke": 890
+  },
+  {
+    "timestamp": "2026-02-13T02:52:28.833Z",
+    "temperature": 34,
+    "humidity": 43.9,
+    "smoke": 894
+  },
+  {
+    "timestamp": "2026-02-13T02:52:33.490Z",
+    "temperature": 34,
+    "humidity": 42.9,
+    "smoke": 909
+  },
+  {
+    "timestamp": "2026-02-13T02:52:38.624Z",
+    "temperature": 34.1,
+    "humidity": 42.5,
+    "smoke": 880
+  },
+  {
+    "timestamp": "2026-02-13T02:52:43.678Z",
+    "temperature": 34.1,
+    "humidity": 42.8,
+    "smoke": 855
+  },
+  {
+    "timestamp": "2026-02-13T02:52:48.605Z",
+    "temperature": 34.2,
+    "humidity": 43,
+    "smoke": 862
+  },
+  {
+    "timestamp": "2026-02-13T02:52:53.414Z",
+    "temperature": 34.2,
+    "humidity": 41.9,
+    "smoke": 883
+  },
+  {
+    "timestamp": "2026-02-13T02:52:58.421Z",
+    "temperature": 34.2,
+    "humidity": 42.6,
+    "smoke": 866
+  },
+  {
+    "timestamp": "2026-02-13T02:53:03.747Z",
+    "temperature": 34.2,
+    "humidity": 42.5,
+    "smoke": 904
+  },
+  {
+    "timestamp": "2026-02-13T02:53:08.445Z",
+    "temperature": 34.1,
+    "humidity": 41.6,
+    "smoke": 894
+  },
+  {
+    "timestamp": "2026-02-13T02:53:13.504Z",
+    "temperature": 34.1,
+    "humidity": 41.5,
+    "smoke": 874
+  },
+  {
+    "timestamp": "2026-02-13T02:53:18.765Z",
+    "temperature": 34.1,
+    "humidity": 41.6,
+    "smoke": 882
+  },
+  {
+    "timestamp": "2026-02-13T02:53:23.843Z",
+    "temperature": 34.1,
+    "humidity": 42.6,
+    "smoke": 882
+  },
+  {
+    "timestamp": "2026-02-13T02:53:28.792Z",
+    "temperature": 34,
+    "humidity": 42.7,
+    "smoke": 884
+  },
+  {
+    "timestamp": "2026-02-13T02:53:33.795Z",
+    "temperature": 34,
+    "humidity": 43.1,
+    "smoke": 840
+  },
+  {
+    "timestamp": "2026-02-13T02:53:38.479Z",
+    "temperature": 33.9,
+    "humidity": 43.2,
+    "smoke": 869
+  },
+  {
+    "timestamp": "2026-02-13T02:53:43.685Z",
+    "temperature": 33.9,
+    "humidity": 43,
+    "smoke": 866
+  },
+  {
+    "timestamp": "2026-02-13T02:53:48.409Z",
+    "temperature": 33.8,
+    "humidity": 43.7,
+    "smoke": 856
+  },
+  {
+    "timestamp": "2026-02-13T02:53:53.523Z",
+    "temperature": 33.8,
+    "humidity": 42.7,
+    "smoke": 863
+  },
+  {
+    "timestamp": "2026-02-13T02:53:58.624Z",
+    "temperature": 33.7,
+    "humidity": 43.8,
+    "smoke": 878
+  },
+  {
+    "timestamp": "2026-02-13T02:54:03.548Z",
+    "temperature": 33.6,
+    "humidity": 43.5,
+    "smoke": 887
+  },
+  {
+    "timestamp": "2026-02-13T02:54:08.465Z",
+    "temperature": 33.6,
+    "humidity": 44.1,
+    "smoke": 911
+  },
+  {
+    "timestamp": "2026-02-13T02:54:13.469Z",
+    "temperature": 33.5,
+    "humidity": 44.2,
+    "smoke": 899
+  },
+  {
+    "timestamp": "2026-02-13T02:54:18.500Z",
+    "temperature": 33.5,
+    "humidity": 43.6,
+    "smoke": 879
+  },
+  {
+    "timestamp": "2026-02-13T02:54:23.648Z",
+    "temperature": 33.4,
+    "humidity": 43.5,
+    "smoke": 874
+  },
+  {
+    "timestamp": "2026-02-13T02:54:28.529Z",
+    "temperature": 33.3,
+    "humidity": 43.5,
+    "smoke": 904
+  },
+  {
+    "timestamp": "2026-02-13T02:54:33.654Z",
+    "temperature": 33.2,
+    "humidity": 42.8,
+    "smoke": 938
+  },
+  {
+    "timestamp": "2026-02-13T02:54:38.564Z",
+    "temperature": 33.2,
+    "humidity": 44.2,
+    "smoke": 952
+  },
+  {
+    "timestamp": "2026-02-13T02:54:43.715Z",
+    "temperature": 33.1,
+    "humidity": 44.8,
+    "smoke": 974
+  },
+  {
+    "timestamp": "2026-02-13T02:54:48.602Z",
+    "temperature": 33.1,
+    "humidity": 43.3,
+    "smoke": 981
+  },
+  {
+    "timestamp": "2026-02-13T02:54:53.926Z",
+    "temperature": 33.1,
+    "humidity": 44.6,
+    "smoke": 985
+  },
+  {
+    "timestamp": "2026-02-13T02:54:58.513Z",
+    "temperature": 33,
+    "humidity": 46,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T02:55:03.790Z",
+    "temperature": 33,
+    "humidity": 48.2,
+    "smoke": 998
+  },
+  {
+    "timestamp": "2026-02-13T02:55:08.468Z",
+    "temperature": 32.9,
+    "humidity": 46.7,
+    "smoke": 938
+  },
+  {
+    "timestamp": "2026-02-13T02:55:13.584Z",
+    "temperature": 32.8,
+    "humidity": 46,
+    "smoke": 935
+  },
+  {
+    "timestamp": "2026-02-13T02:55:18.724Z",
+    "temperature": 32.8,
+    "humidity": 46.8,
+    "smoke": 925
+  },
+  {
+    "timestamp": "2026-02-13T02:55:23.656Z",
+    "temperature": 32.7,
+    "humidity": 46.1,
+    "smoke": 898
+  },
+  {
+    "timestamp": "2026-02-13T02:55:28.543Z",
+    "temperature": 32.7,
+    "humidity": 47,
+    "smoke": 917
+  },
+  {
+    "timestamp": "2026-02-13T02:55:33.456Z",
+    "temperature": 32.6,
+    "humidity": 48.1,
+    "smoke": 915
+  },
+  {
+    "timestamp": "2026-02-13T02:55:38.471Z",
+    "temperature": 32.6,
+    "humidity": 47.2,
+    "smoke": 915
+  },
+  {
+    "timestamp": "2026-02-13T02:55:43.734Z",
+    "temperature": 32.6,
+    "humidity": 45.5,
+    "smoke": 914
+  },
+  {
+    "timestamp": "2026-02-13T02:55:48.598Z",
+    "temperature": 32.6,
+    "humidity": 47.6,
+    "smoke": 915
+  },
+  {
+    "timestamp": "2026-02-13T02:55:53.514Z",
+    "temperature": 32.6,
+    "humidity": 46.9,
+    "smoke": 914
+  },
+  {
+    "timestamp": "2026-02-13T02:55:58.637Z",
+    "temperature": 32.7,
+    "humidity": 45.5,
+    "smoke": 920
+  },
+  {
+    "timestamp": "2026-02-13T02:56:03.606Z",
+    "temperature": 32.6,
+    "humidity": 46.1,
+    "smoke": 996
+  },
+  {
+    "timestamp": "2026-02-13T02:56:08.426Z",
+    "temperature": 32.6,
+    "humidity": 44.9,
+    "smoke": 990
+  },
+  {
+    "timestamp": "2026-02-13T02:56:13.594Z",
+    "temperature": 32.5,
+    "humidity": 45.8,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T02:56:18.545Z",
+    "temperature": 32.6,
+    "humidity": 44.6,
+    "smoke": 981
+  },
+  {
+    "timestamp": "2026-02-13T02:56:23.893Z",
+    "temperature": 32.6,
+    "humidity": 45,
+    "smoke": 946
+  },
+  {
+    "timestamp": "2026-02-13T02:56:28.587Z",
+    "temperature": 32.5,
+    "humidity": 44.6,
+    "smoke": 948
+  },
+  {
+    "timestamp": "2026-02-13T02:56:33.456Z",
+    "temperature": 32.5,
+    "humidity": 50.4,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T02:56:38.571Z",
+    "temperature": 32.5,
+    "humidity": 45.5,
+    "smoke": 996
+  },
+  {
+    "timestamp": "2026-02-13T03:09:12.111Z",
+    "temperature": 29.4,
+    "humidity": 48.1,
+    "smoke": 502
+  },
+  {
+    "timestamp": "2026-02-13T03:09:17.012Z",
+    "temperature": 29.7,
+    "humidity": 46.8,
+    "smoke": 968
+  },
+  {
+    "timestamp": "2026-02-13T03:09:22.063Z",
+    "temperature": 30,
+    "humidity": 46.2,
+    "smoke": 923
+  },
+  {
+    "timestamp": "2026-02-13T03:09:26.975Z",
+    "temperature": 30.4,
+    "humidity": 45.4,
+    "smoke": 922
+  },
+  {
+    "timestamp": "2026-02-13T03:09:32.017Z",
+    "temperature": 30.6,
+    "humidity": 44.8,
+    "smoke": 446
+  },
+  {
+    "timestamp": "2026-02-13T03:09:36.998Z",
+    "temperature": 30.9,
+    "humidity": 44.4,
+    "smoke": 129
+  },
+  {
+    "timestamp": "2026-02-13T03:09:41.997Z",
+    "temperature": 31.2,
+    "humidity": 44.1,
+    "smoke": 1
+  },
+  {
+    "timestamp": "2026-02-13T03:09:46.985Z",
+    "temperature": 31.4,
+    "humidity": 43.6,
+    "smoke": 499
+  },
+  {
+    "timestamp": "2026-02-13T03:09:52.180Z",
+    "temperature": 31.7,
+    "humidity": 43.2,
+    "smoke": 830
+  },
+  {
+    "timestamp": "2026-02-13T03:09:57.088Z",
+    "temperature": 31.8,
+    "humidity": 42.5,
+    "smoke": 904
+  },
+  {
+    "timestamp": "2026-02-13T03:10:02.620Z",
+    "temperature": 31.9,
+    "humidity": 42.3,
+    "smoke": 892
+  },
+  {
+    "timestamp": "2026-02-13T03:10:07.114Z",
+    "temperature": 32,
+    "humidity": 42.3,
+    "smoke": 729
+  },
+  {
+    "timestamp": "2026-02-13T03:10:12.035Z",
+    "temperature": 32.1,
+    "humidity": 41.9,
+    "smoke": 845
+  },
+  {
+    "timestamp": "2026-02-13T03:10:17.020Z",
+    "temperature": 32.2,
+    "humidity": 41.9,
+    "smoke": 848
+  },
+  {
+    "timestamp": "2026-02-13T03:10:22.077Z",
+    "temperature": 32.2,
+    "humidity": 41.5,
+    "smoke": 854
+  },
+  {
+    "timestamp": "2026-02-13T03:10:26.988Z",
+    "temperature": 32.3,
+    "humidity": 41.6,
+    "smoke": 849
+  },
+  {
+    "timestamp": "2026-02-13T03:10:32.098Z",
+    "temperature": 32.3,
+    "humidity": 41.7,
+    "smoke": 847
+  },
+  {
+    "timestamp": "2026-02-13T03:10:36.993Z",
+    "temperature": 32.4,
+    "humidity": 41.5,
+    "smoke": 851
+  },
+  {
+    "timestamp": "2026-02-13T03:10:42.136Z",
+    "temperature": 32.5,
+    "humidity": 41,
+    "smoke": 847
+  },
+  {
+    "timestamp": "2026-02-13T03:10:46.990Z",
+    "temperature": 32.6,
+    "humidity": 40.9,
+    "smoke": 847
+  },
+  {
+    "timestamp": "2026-02-13T03:10:52.067Z",
+    "temperature": 32.6,
+    "humidity": 41,
+    "smoke": 847
+  },
+  {
+    "timestamp": "2026-02-13T03:10:56.984Z",
+    "temperature": 32.6,
+    "humidity": 41.2,
+    "smoke": 847
+  },
+  {
+    "timestamp": "2026-02-13T03:11:02.204Z",
+    "temperature": 32.7,
+    "humidity": 41.2,
+    "smoke": 844
+  },
+  {
+    "timestamp": "2026-02-13T03:11:07.016Z",
+    "temperature": 32.8,
+    "humidity": 41,
+    "smoke": 975
+  },
+  {
+    "timestamp": "2026-02-13T03:11:12.028Z",
+    "temperature": 32.9,
+    "humidity": 40.7,
+    "smoke": 977
+  },
+  {
+    "timestamp": "2026-02-13T03:11:16.996Z",
+    "temperature": 33,
+    "humidity": 40.5,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-13T03:11:21.996Z",
+    "temperature": 33.1,
+    "humidity": 40.3,
+    "smoke": 976
+  },
+  {
+    "timestamp": "2026-02-13T03:11:27.019Z",
+    "temperature": 33.2,
+    "humidity": 40.2,
+    "smoke": 963
+  },
+  {
+    "timestamp": "2026-02-13T03:11:32.115Z",
+    "temperature": 33.2,
+    "humidity": 40.2,
+    "smoke": 979
+  },
+  {
+    "timestamp": "2026-02-13T03:11:37.032Z",
+    "temperature": 33.3,
+    "humidity": 40.5,
+    "smoke": 979
+  },
+  {
+    "timestamp": "2026-02-13T03:11:42.139Z",
+    "temperature": 33.4,
+    "humidity": 40.1,
+    "smoke": 980
+  },
+  {
+    "timestamp": "2026-02-13T03:11:47.060Z",
+    "temperature": 33.6,
+    "humidity": 39.9,
+    "smoke": 985
+  },
+  {
+    "timestamp": "2026-02-13T03:11:51.980Z",
+    "temperature": 33.7,
+    "humidity": 39.6,
+    "smoke": 981
+  },
+  {
+    "timestamp": "2026-02-13T03:11:57.003Z",
+    "temperature": 33.9,
+    "humidity": 39,
+    "smoke": 982
+  },
+  {
+    "timestamp": "2026-02-13T03:12:02.209Z",
+    "temperature": 34,
+    "humidity": 38.7,
+    "smoke": 983
+  },
+  {
+    "timestamp": "2026-02-13T03:12:07.048Z",
+    "temperature": 34,
+    "humidity": 39.1,
+    "smoke": 985
+  },
+  {
+    "timestamp": "2026-02-13T03:12:12.148Z",
+    "temperature": 34,
+    "humidity": 38.8,
+    "smoke": 981
+  },
+  {
+    "timestamp": "2026-02-13T03:12:17.176Z",
+    "temperature": 34.1,
+    "humidity": 39.3,
+    "smoke": 987
+  },
+  {
+    "timestamp": "2026-02-13T03:12:22.083Z",
+    "temperature": 34.1,
+    "humidity": 38.8,
+    "smoke": 988
+  },
+  {
+    "timestamp": "2026-02-13T03:12:27.209Z",
+    "temperature": 34.2,
+    "humidity": 38.8,
+    "smoke": 968
+  },
+  {
+    "timestamp": "2026-02-13T03:12:32.002Z",
+    "temperature": 34.2,
+    "humidity": 38.7,
+    "smoke": 987
+  },
+  {
+    "timestamp": "2026-02-13T03:12:37.036Z",
+    "temperature": 34.3,
+    "humidity": 39.1,
+    "smoke": 974
+  },
+  {
+    "timestamp": "2026-02-13T03:12:42.155Z",
+    "temperature": 34.5,
+    "humidity": 38.8,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:12:47.080Z",
+    "temperature": 34.6,
+    "humidity": 38.2,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:12:52.284Z",
+    "temperature": 34.7,
+    "humidity": 38.1,
+    "smoke": 994
+  },
+  {
+    "timestamp": "2026-02-13T03:12:57.196Z",
+    "temperature": 34.9,
+    "humidity": 38.1,
+    "smoke": 997
+  },
+  {
+    "timestamp": "2026-02-13T03:13:01.999Z",
+    "temperature": 35,
+    "humidity": 37.8,
+    "smoke": 983
+  },
+  {
+    "timestamp": "2026-02-13T03:13:07.166Z",
+    "temperature": 35.2,
+    "humidity": 37.7,
+    "smoke": 970
+  },
+  {
+    "timestamp": "2026-02-13T03:13:11.981Z",
+    "temperature": 35.3,
+    "humidity": 37.3,
+    "smoke": 985
+  },
+  {
+    "timestamp": "2026-02-13T03:13:17.170Z",
+    "temperature": 35.4,
+    "humidity": 37.1,
+    "smoke": 987
+  },
+  {
+    "timestamp": "2026-02-13T03:13:22.078Z",
+    "temperature": 35.5,
+    "humidity": 36.9,
+    "smoke": 988
+  },
+  {
+    "timestamp": "2026-02-13T03:13:26.992Z",
+    "temperature": 35.6,
+    "humidity": 36.9,
+    "smoke": 989
+  },
+  {
+    "timestamp": "2026-02-13T03:13:32.118Z",
+    "temperature": 35.6,
+    "humidity": 36.7,
+    "smoke": 989
+  },
+  {
+    "timestamp": "2026-02-13T03:13:37.037Z",
+    "temperature": 35.7,
+    "humidity": 36.8,
+    "smoke": 993
+  },
+  {
+    "timestamp": "2026-02-13T03:13:42.163Z",
+    "temperature": 35.8,
+    "humidity": 36.9,
+    "smoke": 992
+  },
+  {
+    "timestamp": "2026-02-13T03:13:46.987Z",
+    "temperature": 35.9,
+    "humidity": 36.9,
+    "smoke": 994
+  },
+  {
+    "timestamp": "2026-02-13T03:13:51.987Z",
+    "temperature": 35.9,
+    "humidity": 36.6,
+    "smoke": 995
+  },
+  {
+    "timestamp": "2026-02-13T03:13:56.972Z",
+    "temperature": 36,
+    "humidity": 36.5,
+    "smoke": 996
+  },
+  {
+    "timestamp": "2026-02-13T03:14:01.985Z",
+    "temperature": 36,
+    "humidity": 36.3,
+    "smoke": 988
+  },
+  {
+    "timestamp": "2026-02-13T03:14:06.994Z",
+    "temperature": 36.1,
+    "humidity": 36.3,
+    "smoke": 991
+  },
+  {
+    "timestamp": "2026-02-13T03:14:12.004Z",
+    "temperature": 36.2,
+    "humidity": 36.4,
+    "smoke": 987
+  },
+  {
+    "timestamp": "2026-02-13T03:14:16.992Z",
+    "temperature": 36.3,
+    "humidity": 36.1,
+    "smoke": 971
+  },
+  {
+    "timestamp": "2026-02-13T03:14:21.994Z",
+    "temperature": 36.3,
+    "humidity": 35.9,
+    "smoke": 991
+  },
+  {
+    "timestamp": "2026-02-13T03:14:27.112Z",
+    "temperature": 36.3,
+    "humidity": 35.8,
+    "smoke": 984
+  },
+  {
+    "timestamp": "2026-02-13T03:14:32.001Z",
+    "temperature": 36.4,
+    "humidity": 36.1,
+    "smoke": 990
+  },
+  {
+    "timestamp": "2026-02-13T03:14:37.045Z",
+    "temperature": 36.5,
+    "humidity": 35.8,
+    "smoke": 989
+  },
+  {
+    "timestamp": "2026-02-13T03:14:42.165Z",
+    "temperature": 36.5,
+    "humidity": 35.6,
+    "smoke": 992
+  },
+  {
+    "timestamp": "2026-02-13T03:14:47.098Z",
+    "temperature": 36.5,
+    "humidity": 35.6,
+    "smoke": 66
+  },
+  {
+    "timestamp": "2026-02-13T03:14:51.989Z",
+    "temperature": 36.5,
+    "humidity": 35.6,
+    "smoke": 883
+  },
+  {
+    "timestamp": "2026-02-13T03:14:57.003Z",
+    "temperature": 36.6,
+    "humidity": 35.7,
+    "smoke": 578
+  },
+  {
+    "timestamp": "2026-02-13T03:15:02.022Z",
+    "temperature": 36.6,
+    "humidity": 35.7,
+    "smoke": 47
+  },
+  {
+    "timestamp": "2026-02-13T03:15:07.011Z",
+    "temperature": 36.7,
+    "humidity": 35.6,
+    "smoke": 966
+  },
+  {
+    "timestamp": "2026-02-13T03:15:12.043Z",
+    "temperature": 36.7,
+    "humidity": 35.2,
+    "smoke": 447
+  },
+  {
+    "timestamp": "2026-02-13T03:15:17.195Z",
+    "temperature": 36.7,
+    "humidity": 35.2,
+    "smoke": 311
+  },
+  {
+    "timestamp": "2026-02-13T03:15:22.091Z",
+    "temperature": 36.7,
+    "humidity": 35,
+    "smoke": 345
+  },
+  {
+    "timestamp": "2026-02-13T03:15:27.220Z",
+    "temperature": 36.7,
+    "humidity": 35.1,
+    "smoke": 443
+  },
+  {
+    "timestamp": "2026-02-13T03:15:32.006Z",
+    "temperature": 36.6,
+    "humidity": 35.1,
+    "smoke": 934
+  },
+  {
+    "timestamp": "2026-02-13T03:15:37.036Z",
+    "temperature": 36.6,
+    "humidity": 35.3,
+    "smoke": 949
+  },
+  {
+    "timestamp": "2026-02-13T03:15:42.160Z",
+    "temperature": 36.7,
+    "humidity": 35.2,
+    "smoke": 946
+  },
+  {
+    "timestamp": "2026-02-13T03:15:46.992Z",
+    "temperature": 36.7,
+    "humidity": 35.1,
+    "smoke": 948
+  },
+  {
+    "timestamp": "2026-02-13T03:15:52.204Z",
+    "temperature": 36.7,
+    "humidity": 35,
+    "smoke": 929
+  },
+  {
+    "timestamp": "2026-02-13T03:15:57.115Z",
+    "temperature": 36.6,
+    "humidity": 35,
+    "smoke": 948
+  },
+  {
+    "timestamp": "2026-02-13T03:16:01.982Z",
+    "temperature": 36.5,
+    "humidity": 34.9,
+    "smoke": 678
+  },
+  {
+    "timestamp": "2026-02-13T03:16:07.153Z",
+    "temperature": 36.3,
+    "humidity": 35.3,
+    "smoke": 909
+  },
+  {
+    "timestamp": "2026-02-13T03:16:12.067Z",
+    "temperature": 36.2,
+    "humidity": 35.5,
+    "smoke": 891
+  },
+  {
+    "timestamp": "2026-02-13T03:16:17.188Z",
+    "temperature": 36.1,
+    "humidity": 35.7,
+    "smoke": 802
+  },
+  {
+    "timestamp": "2026-02-13T03:16:22.020Z",
+    "temperature": 35.9,
+    "humidity": 35.7,
+    "smoke": 797
+  },
+  {
+    "timestamp": "2026-02-13T03:16:27.010Z",
+    "temperature": 35.9,
+    "humidity": 35.9,
+    "smoke": 781
+  },
+  {
+    "timestamp": "2026-02-13T03:16:32.135Z",
+    "temperature": 35.8,
+    "humidity": 36.1,
+    "smoke": 932
+  },
+  {
+    "timestamp": "2026-02-13T03:16:37.048Z",
+    "temperature": 35.8,
+    "humidity": 36.2,
+    "smoke": 987
+  },
+  {
+    "timestamp": "2026-02-13T03:16:42.174Z",
+    "temperature": 35.8,
+    "humidity": 36.1,
+    "smoke": 902
+  },
+  {
+    "timestamp": "2026-02-13T03:16:46.991Z",
+    "temperature": 35.8,
+    "humidity": 36.1,
+    "smoke": 888
+  },
+  {
+    "timestamp": "2026-02-13T03:16:52.107Z",
+    "temperature": 35.8,
+    "humidity": 35.9,
+    "smoke": 334
+  },
+  {
+    "timestamp": "2026-02-13T03:16:57.123Z",
+    "temperature": 35.8,
+    "humidity": 35.8,
+    "smoke": 761
+  },
+  {
+    "timestamp": "2026-02-13T03:17:02.273Z",
+    "temperature": 35.8,
+    "humidity": 35.8,
+    "smoke": 781
+  },
+  {
+    "timestamp": "2026-02-13T03:17:07.166Z",
+    "temperature": 35.8,
+    "humidity": 36,
+    "smoke": 859
+  },
+  {
+    "timestamp": "2026-02-13T03:17:12.073Z",
+    "temperature": 35.8,
+    "humidity": 35.9,
+    "smoke": 989
+  },
+  {
+    "timestamp": "2026-02-13T03:17:17.029Z",
+    "temperature": 35.8,
+    "humidity": 36.1,
+    "smoke": 994
+  },
+  {
+    "timestamp": "2026-02-13T03:17:22.027Z",
+    "temperature": 35.9,
+    "humidity": 36.1,
+    "smoke": 914
+  },
+  {
+    "timestamp": "2026-02-13T03:17:27.055Z",
+    "temperature": 35.9,
+    "humidity": 36.1,
+    "smoke": 842
+  },
+  {
+    "timestamp": "2026-02-13T03:17:32.372Z",
+    "temperature": 36,
+    "humidity": 35.8,
+    "smoke": 835
+  },
+  {
+    "timestamp": "2026-02-13T03:17:37.122Z",
+    "temperature": 36.2,
+    "humidity": 35.7,
+    "smoke": 837
+  },
+  {
+    "timestamp": "2026-02-13T03:17:42.435Z",
+    "temperature": 36.3,
+    "humidity": 35.7,
+    "smoke": 827
+  },
+  {
+    "timestamp": "2026-02-13T03:17:47.077Z",
+    "temperature": 36.5,
+    "humidity": 35.5,
+    "smoke": 847
+  },
+  {
+    "timestamp": "2026-02-13T03:17:52.215Z",
+    "temperature": 36.6,
+    "humidity": 35.4,
+    "smoke": 831
+  },
+  {
+    "timestamp": "2026-02-13T03:17:57.171Z",
+    "temperature": 36.8,
+    "humidity": 35.1,
+    "smoke": 829
+  },
+  {
+    "timestamp": "2026-02-13T03:18:02.260Z",
+    "temperature": 37,
+    "humidity": 34.8,
+    "smoke": 769
+  },
+  {
+    "timestamp": "2026-02-13T03:18:07.055Z",
+    "temperature": 37.2,
+    "humidity": 34.6,
+    "smoke": 749
+  },
+  {
+    "timestamp": "2026-02-13T03:18:12.306Z",
+    "temperature": 37.4,
+    "humidity": 34.4,
+    "smoke": 796
+  },
+  {
+    "timestamp": "2026-02-13T03:18:17.191Z",
+    "temperature": 37.6,
+    "humidity": 34.1,
+    "smoke": 809
+  },
+  {
+    "timestamp": "2026-02-13T03:18:22.375Z",
+    "temperature": 37.7,
+    "humidity": 33.7,
+    "smoke": 848
+  },
+  {
+    "timestamp": "2026-02-13T03:18:27.364Z",
+    "temperature": 37.7,
+    "humidity": 33.8,
+    "smoke": 856
+  },
+  {
+    "timestamp": "2026-02-13T03:18:32.158Z",
+    "temperature": 37.7,
+    "humidity": 33.6,
+    "smoke": 934
+  },
+  {
+    "timestamp": "2026-02-13T03:18:37.477Z",
+    "temperature": 37.6,
+    "humidity": 33.5,
+    "smoke": 934
+  },
+  {
+    "timestamp": "2026-02-13T03:18:42.389Z",
+    "temperature": 37.6,
+    "humidity": 33.5,
+    "smoke": 918
+  },
+  {
+    "timestamp": "2026-02-13T03:18:47.517Z",
+    "temperature": 37.5,
+    "humidity": 33.6,
+    "smoke": 934
+  },
+  {
+    "timestamp": "2026-02-13T03:18:52.443Z",
+    "temperature": 37.5,
+    "humidity": 33.7,
+    "smoke": 933
+  },
+  {
+    "timestamp": "2026-02-13T03:18:57.156Z",
+    "temperature": 37.5,
+    "humidity": 33.7,
+    "smoke": 934
+  },
+  {
+    "timestamp": "2026-02-13T03:19:04.667Z",
+    "temperature": 37.5,
+    "humidity": 33.8,
+    "smoke": 934
+  },
+  {
+    "timestamp": "2026-02-13T03:19:07.153Z",
+    "temperature": 37.6,
+    "humidity": 33.8,
+    "smoke": 918
+  },
+  {
+    "timestamp": "2026-02-13T03:19:11.993Z",
+    "temperature": 37.7,
+    "humidity": 33.7,
+    "smoke": 933
+  },
+  {
+    "timestamp": "2026-02-13T03:19:22.180Z",
+    "temperature": 37.9,
+    "humidity": 33.5,
+    "smoke": 918
+  },
+  {
+    "timestamp": "2026-02-13T03:19:25.569Z",
+    "temperature": 37.7,
+    "humidity": 33.7,
+    "smoke": 918
+  },
+  {
+    "timestamp": "2026-02-13T03:19:26.978Z",
+    "temperature": 38,
+    "humidity": 33.5,
+    "smoke": 953
+  },
+  {
+    "timestamp": "2026-02-13T03:19:35.018Z",
+    "temperature": 38.2,
+    "humidity": 33.4,
+    "smoke": 957
+  },
+  {
+    "timestamp": "2026-02-13T03:19:36.982Z",
+    "temperature": 38.3,
+    "humidity": 33.2,
+    "smoke": 959
+  },
+  {
+    "timestamp": "2026-02-13T03:19:42.206Z",
+    "temperature": 38.5,
+    "humidity": 33,
+    "smoke": 957
+  },
+  {
+    "timestamp": "2026-02-13T03:19:46.991Z",
+    "temperature": 38.6,
+    "humidity": 32.7,
+    "smoke": 955
+  },
+  {
+    "timestamp": "2026-02-13T03:19:52.013Z",
+    "temperature": 38.7,
+    "humidity": 32.8,
+    "smoke": 958
+  },
+  {
+    "timestamp": "2026-02-13T03:19:57.149Z",
+    "temperature": 38.8,
+    "humidity": 32.7,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:20:02.048Z",
+    "temperature": 38.9,
+    "humidity": 32.5,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:20:07.004Z",
+    "temperature": 38.9,
+    "humidity": 32.4,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:20:12.123Z",
+    "temperature": 39,
+    "humidity": 32.4,
+    "smoke": 187
+  },
+  {
+    "timestamp": "2026-02-13T03:20:17.002Z",
+    "temperature": 39,
+    "humidity": 32.4,
+    "smoke": 107
+  },
+  {
+    "timestamp": "2026-02-13T03:20:22.135Z",
+    "temperature": 39,
+    "humidity": 32.6,
+    "smoke": 0
+  },
+  {
+    "timestamp": "2026-02-13T03:20:27.036Z",
+    "temperature": 39,
+    "humidity": 32.6,
+    "smoke": 1
+  },
+  {
+    "timestamp": "2026-02-13T03:20:32.593Z",
+    "temperature": 39,
+    "humidity": 32.5,
+    "smoke": 67
+  },
+  {
+    "timestamp": "2026-02-13T03:20:37.109Z",
+    "temperature": 39,
+    "humidity": 32.5,
+    "smoke": 115
+  },
+  {
+    "timestamp": "2026-02-13T03:20:42.188Z",
+    "temperature": 39,
+    "humidity": 32.4,
+    "smoke": 66
+  },
+  {
+    "timestamp": "2026-02-13T03:20:46.978Z",
+    "temperature": 39,
+    "humidity": 32.4,
+    "smoke": 121
+  },
+  {
+    "timestamp": "2026-02-13T03:20:52.250Z",
+    "temperature": 39.1,
+    "humidity": 32.4,
+    "smoke": 113
+  },
+  {
+    "timestamp": "2026-02-13T03:20:57.169Z",
+    "temperature": 39.1,
+    "humidity": 32.2,
+    "smoke": 54
+  },
+  {
+    "timestamp": "2026-02-13T03:21:02.034Z",
+    "temperature": 39.1,
+    "humidity": 32.3,
+    "smoke": 55
+  },
+  {
+    "timestamp": "2026-02-13T03:21:06.983Z",
+    "temperature": 39.2,
+    "humidity": 32.2,
+    "smoke": 70
+  },
+  {
+    "timestamp": "2026-02-13T03:21:12.135Z",
+    "temperature": 39.2,
+    "humidity": 32,
+    "smoke": 124
+  },
+  {
+    "timestamp": "2026-02-13T03:21:17.007Z",
+    "temperature": 39.3,
+    "humidity": 32,
+    "smoke": 160
+  },
+  {
+    "timestamp": "2026-02-13T03:21:22.235Z",
+    "temperature": 39.3,
+    "humidity": 32,
+    "smoke": 47
+  },
+  {
+    "timestamp": "2026-02-13T03:21:27.043Z",
+    "temperature": 39.3,
+    "humidity": 32.1,
+    "smoke": 101
+  },
+  {
+    "timestamp": "2026-02-13T03:21:32.098Z",
+    "temperature": 39.3,
+    "humidity": 32,
+    "smoke": 310
+  },
+  {
+    "timestamp": "2026-02-13T03:21:37.005Z",
+    "temperature": 39.3,
+    "humidity": 31.9,
+    "smoke": 161
+  },
+  {
+    "timestamp": "2026-02-13T03:21:41.986Z",
+    "temperature": 39.4,
+    "humidity": 31.9,
+    "smoke": 0
+  },
+  {
+    "timestamp": "2026-02-13T03:21:47.117Z",
+    "temperature": 39.5,
+    "humidity": 31.8,
+    "smoke": 8
+  },
+  {
+    "timestamp": "2026-02-13T03:21:52.046Z",
+    "temperature": 39.5,
+    "humidity": 31.7,
+    "smoke": 101
+  },
+  {
+    "timestamp": "2026-02-13T03:21:57.153Z",
+    "temperature": 39.6,
+    "humidity": 31.6,
+    "smoke": 312
+  },
+  {
+    "timestamp": "2026-02-13T03:22:02.046Z",
+    "temperature": 39.7,
+    "humidity": 31.6,
+    "smoke": 230
+  },
+  {
+    "timestamp": "2026-02-13T03:22:07.185Z",
+    "temperature": 39.8,
+    "humidity": 31.5,
+    "smoke": 202
+  },
+  {
+    "timestamp": "2026-02-13T03:22:11.978Z",
+    "temperature": 39.8,
+    "humidity": 31.5,
+    "smoke": 290
+  },
+  {
+    "timestamp": "2026-02-13T03:22:16.988Z",
+    "temperature": 39.9,
+    "humidity": 31.3,
+    "smoke": 210
+  },
+  {
+    "timestamp": "2026-02-13T03:22:22.002Z",
+    "temperature": 40,
+    "humidity": 31.3,
+    "smoke": 67
+  },
+  {
+    "timestamp": "2026-02-13T03:22:27.020Z",
+    "temperature": 40.1,
+    "humidity": 31.2,
+    "smoke": 8
+  },
+  {
+    "timestamp": "2026-02-13T03:22:31.977Z",
+    "temperature": 40.2,
+    "humidity": 31.1,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:22:36.974Z",
+    "temperature": 40.3,
+    "humidity": 31,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:22:41.974Z",
+    "temperature": 40.3,
+    "humidity": 31.2,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:22:47.130Z",
+    "temperature": 40.4,
+    "humidity": 30.9,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:22:52.038Z",
+    "temperature": 40.4,
+    "humidity": 30.9,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:22:57.364Z",
+    "temperature": 40.5,
+    "humidity": 30.8,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:23:01.993Z",
+    "temperature": 40.6,
+    "humidity": 30.7,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:23:07.208Z",
+    "temperature": 40.7,
+    "humidity": 30.6,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:23:12.110Z",
+    "temperature": 40.8,
+    "humidity": 30.4,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:23:17.023Z",
+    "temperature": 40.9,
+    "humidity": 30.4,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:23:22.039Z",
+    "temperature": 40.9,
+    "humidity": 30.3,
+    "smoke": 981
+  },
+  {
+    "timestamp": "2026-02-13T03:23:27.052Z",
+    "temperature": 41,
+    "humidity": 30.3,
+    "smoke": 976
+  },
+  {
+    "timestamp": "2026-02-13T03:23:32.187Z",
+    "temperature": 41,
+    "humidity": 30.3,
+    "smoke": 984
+  },
+  {
+    "timestamp": "2026-02-13T03:23:36.983Z",
+    "temperature": 41,
+    "humidity": 30.2,
+    "smoke": 935
+  },
+  {
+    "timestamp": "2026-02-13T03:23:42.325Z",
+    "temperature": 41.1,
+    "humidity": 30.2,
+    "smoke": 925
+  },
+  {
+    "timestamp": "2026-02-13T03:23:47.123Z",
+    "temperature": 41.1,
+    "humidity": 30.1,
+    "smoke": 883
+  },
+  {
+    "timestamp": "2026-02-13T03:23:51.993Z",
+    "temperature": 41.1,
+    "humidity": 30.3,
+    "smoke": 891
+  },
+  {
+    "timestamp": "2026-02-13T03:23:56.981Z",
+    "temperature": 41.1,
+    "humidity": 30.4,
+    "smoke": 914
+  },
+  {
+    "timestamp": "2026-02-13T03:24:01.980Z",
+    "temperature": 41.1,
+    "humidity": 30.4,
+    "smoke": 916
+  },
+  {
+    "timestamp": "2026-02-13T03:24:06.986Z",
+    "temperature": 41.1,
+    "humidity": 30.4,
+    "smoke": 906
+  },
+  {
+    "timestamp": "2026-02-13T03:24:12.119Z",
+    "temperature": 41,
+    "humidity": 30.1,
+    "smoke": 992
+  },
+  {
+    "timestamp": "2026-02-13T03:24:17.128Z",
+    "temperature": 41,
+    "humidity": 30.5,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:24:22.144Z",
+    "temperature": 40.9,
+    "humidity": 30.8,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:24:27.002Z",
+    "temperature": 40.9,
+    "humidity": 30.6,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:24:32.179Z",
+    "temperature": 40.9,
+    "humidity": 30.6,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:24:36.999Z",
+    "temperature": 40.9,
+    "humidity": 30.6,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:24:42.006Z",
+    "temperature": 40.8,
+    "humidity": 30.7,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:24:47.127Z",
+    "temperature": 40.7,
+    "humidity": 30.4,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:24:52.040Z",
+    "temperature": 40.7,
+    "humidity": 30.4,
+    "smoke": 999
+  },
+  {
+    "timestamp": "2026-02-13T03:24:57.169Z",
+    "temperature": 40.6,
+    "humidity": 30.7,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:25:01.991Z",
+    "temperature": 40.5,
+    "humidity": 30.6,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:25:06.979Z",
+    "temperature": 40.5,
+    "humidity": 30.6,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:25:11.989Z",
+    "temperature": 40.4,
+    "humidity": 30.5,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:25:16.981Z",
+    "temperature": 40.4,
+    "humidity": 31.1,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:25:22.155Z",
+    "temperature": 40.4,
+    "humidity": 31.1,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:25:27.016Z",
+    "temperature": 40.4,
+    "humidity": 31.1,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:25:31.986Z",
+    "temperature": 40.3,
+    "humidity": 30.9,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:25:37.003Z",
+    "temperature": 40.4,
+    "humidity": 31.1,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:25:42.018Z",
+    "temperature": 40.4,
+    "humidity": 31,
+    "smoke": 947
+  },
+  {
+    "timestamp": "2026-02-13T03:25:47.060Z",
+    "temperature": 40.4,
+    "humidity": 30.9,
+    "smoke": 955
+  },
+  {
+    "timestamp": "2026-02-13T03:25:52.055Z",
+    "temperature": 40.4,
+    "humidity": 31,
+    "smoke": 955
+  },
+  {
+    "timestamp": "2026-02-13T03:25:57.176Z",
+    "temperature": 40.4,
+    "humidity": 30.7,
+    "smoke": 955
+  },
+  {
+    "timestamp": "2026-02-13T03:26:02.123Z",
+    "temperature": 40.4,
+    "humidity": 30.7,
+    "smoke": 966
+  },
+  {
+    "timestamp": "2026-02-13T03:26:07.120Z",
+    "temperature": 40.3,
+    "humidity": 31,
+    "smoke": 968
+  },
+  {
+    "timestamp": "2026-02-13T03:26:11.992Z",
+    "temperature": 40.3,
+    "humidity": 30.7,
+    "smoke": 988
+  },
+  {
+    "timestamp": "2026-02-13T03:26:17.036Z",
+    "temperature": 40.2,
+    "humidity": 30.8,
+    "smoke": 975
+  },
+  {
+    "timestamp": "2026-02-13T03:26:21.999Z",
+    "temperature": 40.2,
+    "humidity": 30.6,
+    "smoke": 968
+  },
+  {
+    "timestamp": "2026-02-13T03:26:27.104Z",
+    "temperature": 40.1,
+    "humidity": 30.7,
+    "smoke": 943
+  },
+  {
+    "timestamp": "2026-02-13T03:26:32.004Z",
+    "temperature": 40,
+    "humidity": 30.6,
+    "smoke": 947
+  },
+  {
+    "timestamp": "2026-02-13T03:26:37.106Z",
+    "temperature": 39.9,
+    "humidity": 30.9,
+    "smoke": 946
+  },
+  {
+    "timestamp": "2026-02-13T03:26:42.430Z",
+    "temperature": 39.8,
+    "humidity": 30.9,
+    "smoke": 960
+  },
+  {
+    "timestamp": "2026-02-13T03:26:47.348Z",
+    "temperature": 39.8,
+    "humidity": 30.9,
+    "smoke": 963
+  },
+  {
+    "timestamp": "2026-02-13T03:26:52.473Z",
+    "temperature": 39.7,
+    "humidity": 31,
+    "smoke": 962
+  },
+  {
+    "timestamp": "2026-02-13T03:26:57.204Z",
+    "temperature": 39.5,
+    "humidity": 31,
+    "smoke": 946
+  },
+  {
+    "timestamp": "2026-02-13T03:27:02.102Z",
+    "temperature": 39.5,
+    "humidity": 31.2,
+    "smoke": 943
+  },
+  {
+    "timestamp": "2026-02-13T03:27:07.115Z",
+    "temperature": 39.4,
+    "humidity": 31.2,
+    "smoke": 963
+  },
+  {
+    "timestamp": "2026-02-13T03:27:12.123Z",
+    "temperature": 39.3,
+    "humidity": 31.3,
+    "smoke": 964
+  },
+  {
+    "timestamp": "2026-02-13T03:27:16.984Z",
+    "temperature": 39.3,
+    "humidity": 31.6,
+    "smoke": 947
+  },
+  {
+    "timestamp": "2026-02-13T03:27:21.978Z",
+    "temperature": 39.2,
+    "humidity": 31.8,
+    "smoke": 965
+  },
+  {
+    "timestamp": "2026-02-13T03:27:26.984Z",
+    "temperature": 39.1,
+    "humidity": 31.7,
+    "smoke": 961
+  },
+  {
+    "timestamp": "2026-02-13T03:27:32.015Z",
+    "temperature": 39,
+    "humidity": 31.5,
+    "smoke": 967
+  },
+  {
+    "timestamp": "2026-02-13T03:27:37.116Z",
+    "temperature": 38.9,
+    "humidity": 31.6,
+    "smoke": 963
+  },
+  {
+    "timestamp": "2026-02-13T03:27:42.058Z",
+    "temperature": 38.8,
+    "humidity": 31.6,
+    "smoke": 964
+  },
+  {
+    "timestamp": "2026-02-13T03:27:47.163Z",
+    "temperature": 38.7,
+    "humidity": 32.8,
+    "smoke": 964
+  },
+  {
+    "timestamp": "2026-02-13T03:27:52.006Z",
+    "temperature": 38.5,
+    "humidity": 32.4,
+    "smoke": 943
+  },
+  {
+    "timestamp": "2026-02-13T03:27:56.992Z",
+    "temperature": 38.4,
+    "humidity": 32.3,
+    "smoke": 945
+  },
+  {
+    "timestamp": "2026-02-13T03:28:02.094Z",
+    "temperature": 38.3,
+    "humidity": 32.3,
+    "smoke": 964
+  },
+  {
+    "timestamp": "2026-02-13T03:28:07.232Z",
+    "temperature": 38.2,
+    "humidity": 32.3,
+    "smoke": 963
+  },
+  {
+    "timestamp": "2026-02-13T03:28:12.158Z",
+    "temperature": 38.1,
+    "humidity": 32.4,
+    "smoke": 966
+  },
+  {
+    "timestamp": "2026-02-13T03:28:17.045Z",
+    "temperature": 38.1,
+    "humidity": 32.6,
+    "smoke": 965
+  },
+  {
+    "timestamp": "2026-02-13T03:28:22.167Z",
+    "temperature": 38.1,
+    "humidity": 32.5,
+    "smoke": 964
+  },
+  {
+    "timestamp": "2026-02-13T03:28:27.002Z",
+    "temperature": 38,
+    "humidity": 32.5,
+    "smoke": 966
+  },
+  {
+    "timestamp": "2026-02-13T03:28:31.994Z",
+    "temperature": 37.9,
+    "humidity": 32.6,
+    "smoke": 965
+  },
+  {
+    "timestamp": "2026-02-13T03:28:37.128Z",
+    "temperature": 37.8,
+    "humidity": 32.7,
+    "smoke": 967
+  },
+  {
+    "timestamp": "2026-02-13T03:28:42.245Z",
+    "temperature": 37.6,
+    "humidity": 32.8,
+    "smoke": 984
+  },
+  {
+    "timestamp": "2026-02-13T03:28:47.160Z",
+    "temperature": 37.5,
+    "humidity": 32.9,
+    "smoke": 456
+  },
+  {
+    "timestamp": "2026-02-13T03:28:52.072Z",
+    "temperature": 37.5,
+    "humidity": 33.1,
+    "smoke": 657
+  },
+  {
+    "timestamp": "2026-02-13T03:28:56.988Z",
+    "temperature": 37.4,
+    "humidity": 33.1,
+    "smoke": 768
+  },
+  {
+    "timestamp": "2026-02-13T03:29:01.974Z",
+    "temperature": 37.2,
+    "humidity": 33.2,
+    "smoke": 587
+  },
+  {
+    "timestamp": "2026-02-13T03:29:07.021Z",
+    "temperature": 37,
+    "humidity": 33.4,
+    "smoke": 374
+  },
+  {
+    "timestamp": "2026-02-13T03:29:12.134Z",
+    "temperature": 36.8,
+    "humidity": 34,
+    "smoke": 363
+  },
+  {
+    "timestamp": "2026-02-13T03:29:17.049Z",
+    "temperature": 36.6,
+    "humidity": 34,
+    "smoke": 465
+  },
+  {
+    "timestamp": "2026-02-13T03:29:22.274Z",
+    "temperature": 36.5,
+    "humidity": 35,
+    "smoke": 535
+  },
+  {
+    "timestamp": "2026-02-13T03:29:27.087Z",
+    "temperature": 36.3,
+    "humidity": 34.5,
+    "smoke": 757
+  },
+  {
+    "timestamp": "2026-02-13T03:29:31.999Z",
+    "temperature": 36.2,
+    "humidity": 34.4,
+    "smoke": 645
+  },
+  {
+    "timestamp": "2026-02-13T03:29:36.990Z",
+    "temperature": 36.1,
+    "humidity": 34.5,
+    "smoke": 421
+  },
+  {
+    "timestamp": "2026-02-13T03:29:42.039Z",
+    "temperature": 36,
+    "humidity": 34.5,
+    "smoke": 264
+  },
+  {
+    "timestamp": "2026-02-13T03:29:47.175Z",
+    "temperature": 35.9,
+    "humidity": 34.6,
+    "smoke": 374
+  },
+  {
+    "timestamp": "2026-02-13T03:29:52.176Z",
+    "temperature": 35.7,
+    "humidity": 34.8,
+    "smoke": 472
+  },
+  {
+    "timestamp": "2026-02-13T03:29:57.395Z",
+    "temperature": 35.6,
+    "humidity": 35,
+    "smoke": 652
+  },
+  {
+    "timestamp": "2026-02-13T03:30:02.006Z",
+    "temperature": 35.4,
+    "humidity": 35.2,
+    "smoke": 841
+  },
+  {
+    "timestamp": "2026-02-13T03:30:07.149Z",
+    "temperature": 35.3,
+    "humidity": 35.3,
+    "smoke": 583
+  },
+  {
+    "timestamp": "2026-02-13T03:30:12.046Z",
+    "temperature": 35.1,
+    "humidity": 35.6,
+    "smoke": 357
+  },
+  {
+    "timestamp": "2026-02-13T03:30:17.036Z",
+    "temperature": 35,
+    "humidity": 35.7,
+    "smoke": 326
+  },
+  {
+    "timestamp": "2026-02-13T03:30:22.174Z",
+    "temperature": 34.9,
+    "humidity": 35.9,
+    "smoke": 402
+  },
+  {
+    "timestamp": "2026-02-13T03:30:27.096Z",
+    "temperature": 34.8,
+    "humidity": 36.5,
+    "smoke": 419
+  },
+  {
+    "timestamp": "2026-02-13T03:30:31.981Z",
+    "temperature": 34.7,
+    "humidity": 36.4,
+    "smoke": 472
+  },
+  {
+    "timestamp": "2026-02-13T03:30:37.349Z",
+    "temperature": 34.6,
+    "humidity": 36.8,
+    "smoke": 470
+  },
+  {
+    "timestamp": "2026-02-13T03:30:42.051Z",
+    "temperature": 34.5,
+    "humidity": 36.9,
+    "smoke": 465
+  },
+  {
+    "timestamp": "2026-02-13T03:30:47.165Z",
+    "temperature": 34.3,
+    "humidity": 36.8,
+    "smoke": 504
+  },
+  {
+    "timestamp": "2026-02-13T03:30:52.101Z",
+    "temperature": 34.2,
+    "humidity": 37,
+    "smoke": 519
+  },
+  {
+    "timestamp": "2026-02-13T03:30:57.227Z",
+    "temperature": 34,
+    "humidity": 37.3,
+    "smoke": 613
+  },
+  {
+    "timestamp": "2026-02-13T03:31:01.983Z",
+    "temperature": 33.9,
+    "humidity": 37.6,
+    "smoke": 602
+  },
+  {
+    "timestamp": "2026-02-13T03:31:07.025Z",
+    "temperature": 33.8,
+    "humidity": 37.6,
+    "smoke": 588
+  },
+  {
+    "timestamp": "2026-02-13T03:31:12.167Z",
+    "temperature": 33.7,
+    "humidity": 37.6,
+    "smoke": 545
+  },
+  {
+    "timestamp": "2026-02-13T03:31:17.077Z",
+    "temperature": 33.7,
+    "humidity": 37.8,
+    "smoke": 523
+  },
+  {
+    "timestamp": "2026-02-13T03:31:22.185Z",
+    "temperature": 33.7,
+    "humidity": 37.6,
+    "smoke": 489
+  },
+  {
+    "timestamp": "2026-02-13T03:31:26.970Z",
+    "temperature": 33.6,
+    "humidity": 37.6,
+    "smoke": 374
+  },
+  {
+    "timestamp": "2026-02-13T03:31:31.990Z",
+    "temperature": 33.6,
+    "humidity": 38,
+    "smoke": 325
+  },
+  {
+    "timestamp": "2026-02-13T03:31:36.985Z",
+    "temperature": 33.5,
+    "humidity": 38.1,
+    "smoke": 486
+  },
+  {
+    "timestamp": "2026-02-13T03:31:42.052Z",
+    "temperature": 33.4,
+    "humidity": 38.2,
+    "smoke": 558
+  },
+  {
+    "timestamp": "2026-02-13T03:31:47.186Z",
+    "temperature": 33.4,
+    "humidity": 38.3,
+    "smoke": 613
+  },
+  {
+    "timestamp": "2026-02-13T03:31:51.988Z",
+    "temperature": 33.3,
+    "humidity": 39,
+    "smoke": 675
+  },
+  {
+    "timestamp": "2026-02-13T03:31:57.320Z",
+    "temperature": 33.2,
+    "humidity": 38.8,
+    "smoke": 660
+  },
+  {
+    "timestamp": "2026-02-13T03:32:02.238Z",
+    "temperature": 33.2,
+    "humidity": 38.6,
+    "smoke": 713
+  },
+  {
+    "timestamp": "2026-02-13T03:32:07.053Z",
+    "temperature": 33.2,
+    "humidity": 38.6,
+    "smoke": 869
+  },
+  {
+    "timestamp": "2026-02-13T03:32:12.148Z",
+    "temperature": 33.2,
+    "humidity": 38.6,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:32:16.977Z",
+    "temperature": 33.2,
+    "humidity": 38.6,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:32:21.994Z",
+    "temperature": 33.2,
+    "humidity": 38.7,
+    "smoke": 931
+  },
+  {
+    "timestamp": "2026-02-13T03:32:27.103Z",
+    "temperature": 33.3,
+    "humidity": 38.8,
+    "smoke": 791
+  },
+  {
+    "timestamp": "2026-02-13T03:32:32.018Z",
+    "temperature": 33.4,
+    "humidity": 39,
+    "smoke": 636
+  },
+  {
+    "timestamp": "2026-02-13T03:32:36.968Z",
+    "temperature": 33.4,
+    "humidity": 38.7,
+    "smoke": 648
+  },
+  {
+    "timestamp": "2026-02-13T03:32:41.993Z",
+    "temperature": 33.4,
+    "humidity": 38.5,
+    "smoke": 711
+  },
+  {
+    "timestamp": "2026-02-13T03:32:47.013Z",
+    "temperature": 33.5,
+    "humidity": 38.3,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:32:52.109Z",
+    "temperature": 33.5,
+    "humidity": 38.2,
+    "smoke": 874
+  },
+  {
+    "timestamp": "2026-02-13T03:32:57.026Z",
+    "temperature": 33.6,
+    "humidity": 38.5,
+    "smoke": 598
+  },
+  {
+    "timestamp": "2026-02-13T03:33:02.019Z",
+    "temperature": 33.6,
+    "humidity": 38.7,
+    "smoke": 425
+  },
+  {
+    "timestamp": "2026-02-13T03:33:07.035Z",
+    "temperature": 33.6,
+    "humidity": 38.6,
+    "smoke": 543
+  },
+  {
+    "timestamp": "2026-02-13T03:33:12.067Z",
+    "temperature": 33.6,
+    "humidity": 38.5,
+    "smoke": 874
+  },
+  {
+    "timestamp": "2026-02-13T03:33:17.414Z",
+    "temperature": 33.6,
+    "humidity": 38.5,
+    "smoke": 764
+  },
+  {
+    "timestamp": "2026-02-13T03:33:22.011Z",
+    "temperature": 33.6,
+    "humidity": 38.6,
+    "smoke": 539
+  },
+  {
+    "timestamp": "2026-02-13T03:33:27.113Z",
+    "temperature": 33.6,
+    "humidity": 38.7,
+    "smoke": 407
+  },
+  {
+    "timestamp": "2026-02-13T03:33:32.037Z",
+    "temperature": 33.5,
+    "humidity": 39.2,
+    "smoke": 607
+  },
+  {
+    "timestamp": "2026-02-13T03:33:37.161Z",
+    "temperature": 33.5,
+    "humidity": 39.1,
+    "smoke": 615
+  },
+  {
+    "timestamp": "2026-02-13T03:33:42.048Z",
+    "temperature": 33.5,
+    "humidity": 39,
+    "smoke": 639
+  },
+  {
+    "timestamp": "2026-02-13T03:33:47.384Z",
+    "temperature": 33.5,
+    "humidity": 38.9,
+    "smoke": 855
+  },
+  {
+    "timestamp": "2026-02-13T03:33:51.999Z",
+    "temperature": 33.7,
+    "humidity": 38.8,
+    "smoke": 884
+  },
+  {
+    "timestamp": "2026-02-13T03:33:57.319Z",
+    "temperature": 33.7,
+    "humidity": 38.4,
+    "smoke": 878
+  },
+  {
+    "timestamp": "2026-02-13T03:34:01.968Z",
+    "temperature": 33.8,
+    "humidity": 38.3,
+    "smoke": 859
+  },
+  {
+    "timestamp": "2026-02-13T03:34:07.246Z",
+    "temperature": 33.9,
+    "humidity": 38.3,
+    "smoke": 860
+  },
+  {
+    "timestamp": "2026-02-13T03:34:11.999Z",
+    "temperature": 34,
+    "humidity": 38.1,
+    "smoke": 882
+  },
+  {
+    "timestamp": "2026-02-13T03:34:17.104Z",
+    "temperature": 34.1,
+    "humidity": 38.1,
+    "smoke": 882
+  },
+  {
+    "timestamp": "2026-02-13T03:34:21.994Z",
+    "temperature": 34.2,
+    "humidity": 37.7,
+    "smoke": 880
+  },
+  {
+    "timestamp": "2026-02-13T03:34:27.113Z",
+    "temperature": 34.3,
+    "humidity": 37.5,
+    "smoke": 880
+  },
+  {
+    "timestamp": "2026-02-13T03:34:32.029Z",
+    "temperature": 34.3,
+    "humidity": 37.5,
+    "smoke": 954
+  },
+  {
+    "timestamp": "2026-02-13T03:34:37.562Z",
+    "temperature": 34.4,
+    "humidity": 37.4,
+    "smoke": 955
+  },
+  {
+    "timestamp": "2026-02-13T03:34:41.992Z",
+    "temperature": 34.4,
+    "humidity": 37.3,
+    "smoke": 973
+  },
+  {
+    "timestamp": "2026-02-13T03:34:47.188Z",
+    "temperature": 34.4,
+    "humidity": 37.3,
+    "smoke": 957
+  },
+  {
+    "timestamp": "2026-02-13T03:34:52.124Z",
+    "temperature": 34.5,
+    "humidity": 37.2,
+    "smoke": 976
+  },
+  {
+    "timestamp": "2026-02-13T03:34:57.241Z",
+    "temperature": 34.5,
+    "humidity": 37.1,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-13T03:35:02.004Z",
+    "temperature": 34.5,
+    "humidity": 37,
+    "smoke": 962
+  },
+  {
+    "timestamp": "2026-02-13T03:35:07.064Z",
+    "temperature": 34.6,
+    "humidity": 37,
+    "smoke": 976
+  },
+  {
+    "timestamp": "2026-02-13T03:35:11.973Z",
+    "temperature": 34.6,
+    "humidity": 36.9,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-13T03:35:17.102Z",
+    "temperature": 34.6,
+    "humidity": 37,
+    "smoke": 980
+  },
+  {
+    "timestamp": "2026-02-13T03:35:22.002Z",
+    "temperature": 34.5,
+    "humidity": 37,
+    "smoke": 979
+  },
+  {
+    "timestamp": "2026-02-13T03:35:26.969Z",
+    "temperature": 34.5,
+    "humidity": 37,
+    "smoke": 957
+  },
+  {
+    "timestamp": "2026-02-13T03:35:32.011Z",
+    "temperature": 34.5,
+    "humidity": 37,
+    "smoke": 977
+  },
+  {
+    "timestamp": "2026-02-13T03:35:37.180Z",
+    "temperature": 34.5,
+    "humidity": 37,
+    "smoke": 951
+  },
+  {
+    "timestamp": "2026-02-13T03:35:42.073Z",
+    "temperature": 34.4,
+    "humidity": 37,
+    "smoke": 971
+  },
+  {
+    "timestamp": "2026-02-13T03:35:46.961Z",
+    "temperature": 34.4,
+    "humidity": 37.3,
+    "smoke": 950
+  },
+  {
+    "timestamp": "2026-02-13T03:35:52.100Z",
+    "temperature": 34.3,
+    "humidity": 37.1,
+    "smoke": 930
+  },
+  {
+    "timestamp": "2026-02-13T03:35:57.358Z",
+    "temperature": 34.3,
+    "humidity": 37.1,
+    "smoke": 947
+  },
+  {
+    "timestamp": "2026-02-13T03:36:02.157Z",
+    "temperature": 34.3,
+    "humidity": 37.1,
+    "smoke": 949
+  },
+  {
+    "timestamp": "2026-02-13T03:36:07.040Z",
+    "temperature": 34.4,
+    "humidity": 41.6,
+    "smoke": 903
+  },
+  {
+    "timestamp": "2026-02-13T03:36:12.287Z",
+    "temperature": 34.3,
+    "humidity": 38.1,
+    "smoke": 363
+  },
+  {
+    "timestamp": "2026-02-13T03:36:17.151Z",
+    "temperature": 34.1,
+    "humidity": 37.2,
+    "smoke": 902
+  },
+  {
+    "timestamp": "2026-02-13T03:36:22.208Z",
+    "temperature": 33.8,
+    "humidity": 37,
+    "smoke": 909
+  },
+  {
+    "timestamp": "2026-02-13T03:36:27.127Z",
+    "temperature": 33.5,
+    "humidity": 37.5,
+    "smoke": 911
+  },
+  {
+    "timestamp": "2026-02-13T03:36:32.039Z",
+    "temperature": 33.1,
+    "humidity": 37.8,
+    "smoke": 913
+  },
+  {
+    "timestamp": "2026-02-13T03:36:37.199Z",
+    "temperature": 32.6,
+    "humidity": 38.4,
+    "smoke": 918
+  },
+  {
+    "timestamp": "2026-02-13T03:36:41.969Z",
+    "temperature": 32.1,
+    "humidity": 39.1,
+    "smoke": 920
+  },
+  {
+    "timestamp": "2026-02-13T03:36:46.995Z",
+    "temperature": 31.7,
+    "humidity": 39.8,
+    "smoke": 950
+  },
+  {
+    "timestamp": "2026-02-13T03:36:51.993Z",
+    "temperature": 31.3,
+    "humidity": 40.5,
+    "smoke": 943
+  },
+  {
+    "timestamp": "2026-02-13T03:36:57.259Z",
+    "temperature": 30.9,
+    "humidity": 40.9,
+    "smoke": 967
+  },
+  {
+    "timestamp": "2026-02-13T03:37:02.168Z",
+    "temperature": 30.5,
+    "humidity": 41.4,
+    "smoke": 967
+  },
+  {
+    "timestamp": "2026-02-13T03:37:07.058Z",
+    "temperature": 30.1,
+    "humidity": 41.9,
+    "smoke": 965
+  },
+  {
+    "timestamp": "2026-02-13T03:37:12.176Z",
+    "temperature": 29.7,
+    "humidity": 42.8,
+    "smoke": 950
+  },
+  {
+    "timestamp": "2026-02-13T03:37:17.214Z",
+    "temperature": 29.4,
+    "humidity": 43.2,
+    "smoke": 965
+  },
+  {
+    "timestamp": "2026-02-13T03:37:21.963Z",
+    "temperature": 29.1,
+    "humidity": 43.6,
+    "smoke": 965
+  },
+  {
+    "timestamp": "2026-02-13T03:37:26.994Z",
+    "temperature": 28.8,
+    "humidity": 44.2,
+    "smoke": 965
+  },
+  {
+    "timestamp": "2026-02-13T03:37:31.991Z",
+    "temperature": 28.5,
+    "humidity": 44.6,
+    "smoke": 954
+  },
+  {
+    "timestamp": "2026-02-13T03:37:37.014Z",
+    "temperature": 28.3,
+    "humidity": 45.2,
+    "smoke": 955
+  },
+  {
+    "timestamp": "2026-02-13T03:37:41.993Z",
+    "temperature": 27.9,
+    "humidity": 45.6,
+    "smoke": 956
+  },
+  {
+    "timestamp": "2026-02-13T03:37:46.976Z",
+    "temperature": 27.7,
+    "humidity": 46.3,
+    "smoke": 954
+  },
+  {
+    "timestamp": "2026-02-13T03:37:52.111Z",
+    "temperature": 27.5,
+    "humidity": 46.6,
+    "smoke": 954
+  },
+  {
+    "timestamp": "2026-02-13T03:37:57.268Z",
+    "temperature": 27.3,
+    "humidity": 47.2,
+    "smoke": 963
+  },
+  {
+    "timestamp": "2026-02-13T03:38:02.061Z",
+    "temperature": 27.1,
+    "humidity": 47.6,
+    "smoke": 968
+  },
+  {
+    "timestamp": "2026-02-13T03:38:06.963Z",
+    "temperature": 26.9,
+    "humidity": 47.9,
+    "smoke": 969
+  },
+  {
+    "timestamp": "2026-02-13T03:38:11.979Z",
+    "temperature": 26.7,
+    "humidity": 48,
+    "smoke": 969
+  },
+  {
+    "timestamp": "2026-02-13T03:38:17.305Z",
+    "temperature": 26.5,
+    "humidity": 48.4,
+    "smoke": 954
+  },
+  {
+    "timestamp": "2026-02-13T03:38:22.013Z",
+    "temperature": 26.3,
+    "humidity": 48.7,
+    "smoke": 970
+  },
+  {
+    "timestamp": "2026-02-13T03:38:27.133Z",
+    "temperature": 26.1,
+    "humidity": 49.4,
+    "smoke": 970
+  },
+  {
+    "timestamp": "2026-02-13T03:38:31.979Z",
+    "temperature": 26,
+    "humidity": 50,
+    "smoke": 972
+  },
+  {
+    "timestamp": "2026-02-13T03:38:37.183Z",
+    "temperature": 25.8,
+    "humidity": 50.2,
+    "smoke": 959
+  },
+  {
+    "timestamp": "2026-02-13T03:38:41.960Z",
+    "temperature": 25.7,
+    "humidity": 50.5,
+    "smoke": 972
+  },
+  {
+    "timestamp": "2026-02-13T03:38:47.207Z",
+    "temperature": 25.5,
+    "humidity": 50.7,
+    "smoke": 972
+  },
+  {
+    "timestamp": "2026-02-13T03:38:52.132Z",
+    "temperature": 25.4,
+    "humidity": 50.6,
+    "smoke": 970
+  },
+  {
+    "timestamp": "2026-02-13T03:38:57.264Z",
+    "temperature": 25.3,
+    "humidity": 51.1,
+    "smoke": 972
+  },
+  {
+    "timestamp": "2026-02-13T03:39:02.162Z",
+    "temperature": 25.1,
+    "humidity": 51.5,
+    "smoke": 972
+  },
+  {
+    "timestamp": "2026-02-13T03:39:07.075Z",
+    "temperature": 25,
+    "humidity": 51.9,
+    "smoke": 971
+  },
+  {
+    "timestamp": "2026-02-13T03:39:12.019Z",
+    "temperature": 24.9,
+    "humidity": 52.5,
+    "smoke": 972
+  },
+  {
+    "timestamp": "2026-02-13T03:39:17.112Z",
+    "temperature": 24.8,
+    "humidity": 52.7,
+    "smoke": 972
+  },
+  {
+    "timestamp": "2026-02-13T03:39:22.023Z",
+    "temperature": 24.8,
+    "humidity": 52.9,
+    "smoke": 972
+  },
+  {
+    "timestamp": "2026-02-13T03:39:27.142Z",
+    "temperature": 24.7,
+    "humidity": 53,
+    "smoke": 972
+  },
+  {
+    "timestamp": "2026-02-13T03:39:32.057Z",
+    "temperature": 24.6,
+    "humidity": 53.2,
+    "smoke": 970
+  },
+  {
+    "timestamp": "2026-02-13T03:39:37.189Z",
+    "temperature": 24.5,
+    "humidity": 53.3,
+    "smoke": 955
+  },
+  {
+    "timestamp": "2026-02-13T03:39:42.099Z",
+    "temperature": 24.5,
+    "humidity": 53.5,
+    "smoke": 971
+  },
+  {
+    "timestamp": "2026-02-13T03:39:47.006Z",
+    "temperature": 24.4,
+    "humidity": 53.8,
+    "smoke": 969
+  },
+  {
+    "timestamp": "2026-02-13T03:39:52.005Z",
+    "temperature": 24.3,
+    "humidity": 53.9,
+    "smoke": 968
+  },
+  {
+    "timestamp": "2026-02-13T03:39:57.160Z",
+    "temperature": 24.3,
+    "humidity": 54.1,
+    "smoke": 971
+  },
+  {
+    "timestamp": "2026-02-13T03:40:02.184Z",
+    "temperature": 24.2,
+    "humidity": 54.4,
+    "smoke": 973
+  },
+  {
+    "timestamp": "2026-02-13T03:40:06.976Z",
+    "temperature": 24.2,
+    "humidity": 54.4,
+    "smoke": 974
+  },
+  {
+    "timestamp": "2026-02-13T03:40:11.998Z",
+    "temperature": 24.1,
+    "humidity": 53.9,
+    "smoke": 970
+  },
+  {
+    "timestamp": "2026-02-13T03:40:17.525Z",
+    "temperature": 24,
+    "humidity": 54.1,
+    "smoke": 951
+  },
+  {
+    "timestamp": "2026-02-13T03:40:22.862Z",
+    "temperature": 24,
+    "humidity": 54.5,
+    "smoke": 970
+  },
+  {
+    "timestamp": "2026-02-13T03:40:27.059Z",
+    "temperature": 23.9,
+    "humidity": 54.9,
+    "smoke": 953
+  },
+  {
+    "timestamp": "2026-02-13T03:40:32.005Z",
+    "temperature": 23.9,
+    "humidity": 55.1,
+    "smoke": 970
+  },
+  {
+    "timestamp": "2026-02-13T03:40:37.394Z",
+    "temperature": 23.9,
+    "humidity": 55,
+    "smoke": 969
+  },
+  {
+    "timestamp": "2026-02-13T03:40:41.992Z",
+    "temperature": 23.9,
+    "humidity": 55.1,
+    "smoke": 968
+  },
+  {
+    "timestamp": "2026-02-13T03:40:47.016Z",
+    "temperature": 23.8,
+    "humidity": 55.3,
+    "smoke": 968
+  },
+  {
+    "timestamp": "2026-02-13T03:40:52.239Z",
+    "temperature": 23.8,
+    "humidity": 54.9,
+    "smoke": 952
+  },
+  {
+    "timestamp": "2026-02-13T03:40:57.377Z",
+    "temperature": 23.8,
+    "humidity": 55.2,
+    "smoke": 968
+  },
+  {
+    "timestamp": "2026-02-13T03:41:02.092Z",
+    "temperature": 23.7,
+    "humidity": 55.4,
+    "smoke": 969
+  },
+  {
+    "timestamp": "2026-02-13T03:41:07.102Z",
+    "temperature": 23.7,
+    "humidity": 55.4,
+    "smoke": 965
+  },
+  {
+    "timestamp": "2026-02-13T03:41:11.991Z",
+    "temperature": 23.7,
+    "humidity": 55.6,
+    "smoke": 969
+  },
+  {
+    "timestamp": "2026-02-13T03:41:16.986Z",
+    "temperature": 23.7,
+    "humidity": 55.4,
+    "smoke": 966
+  },
+  {
+    "timestamp": "2026-02-13T03:41:21.965Z",
+    "temperature": 23.6,
+    "humidity": 55.8,
+    "smoke": 851
+  },
+  {
+    "timestamp": "2026-02-13T03:42:16.716Z",
+    "temperature": 23.5,
+    "humidity": 57.2,
+    "smoke": 537
+  },
+  {
+    "timestamp": "2026-02-13T03:42:21.562Z",
+    "temperature": 23.6,
+    "humidity": 57,
+    "smoke": 285
+  },
+  {
+    "timestamp": "2026-02-13T03:42:26.746Z",
+    "temperature": 23.6,
+    "humidity": 57.1,
+    "smoke": 298
+  },
+  {
+    "timestamp": "2026-02-13T03:42:31.564Z",
+    "temperature": 23.7,
+    "humidity": 56.8,
+    "smoke": 354
+  },
+  {
+    "timestamp": "2026-02-13T03:42:36.890Z",
+    "temperature": 23.7,
+    "humidity": 56.6,
+    "smoke": 425
+  },
+  {
+    "timestamp": "2026-02-13T03:42:41.926Z",
+    "temperature": 23.8,
+    "humidity": 56.6,
+    "smoke": 371
+  },
+  {
+    "timestamp": "2026-02-13T03:42:46.615Z",
+    "temperature": 23.8,
+    "humidity": 56.4,
+    "smoke": 147
+  },
+  {
+    "timestamp": "2026-02-13T03:42:51.571Z",
+    "temperature": 23.8,
+    "humidity": 56.2,
+    "smoke": 78
+  },
+  {
+    "timestamp": "2026-02-13T03:42:56.687Z",
+    "temperature": 23.9,
+    "humidity": 56.1,
+    "smoke": 64
+  },
+  {
+    "timestamp": "2026-02-13T03:43:01.768Z",
+    "temperature": 23.9,
+    "humidity": 55.9,
+    "smoke": 188
+  },
+  {
+    "timestamp": "2026-02-13T03:43:06.689Z",
+    "temperature": 23.9,
+    "humidity": 55.7,
+    "smoke": 438
+  },
+  {
+    "timestamp": "2026-02-13T03:43:11.604Z",
+    "temperature": 23.9,
+    "humidity": 55.6,
+    "smoke": 367
+  },
+  {
+    "timestamp": "2026-02-13T03:43:16.716Z",
+    "temperature": 24,
+    "humidity": 55.6,
+    "smoke": 169
+  },
+  {
+    "timestamp": "2026-02-13T03:43:21.602Z",
+    "temperature": 24,
+    "humidity": 55.6,
+    "smoke": 0
+  },
+  {
+    "timestamp": "2026-02-13T03:43:26.621Z",
+    "temperature": 24,
+    "humidity": 55.7,
+    "smoke": 25
+  },
+  {
+    "timestamp": "2026-02-13T03:43:31.584Z",
+    "temperature": 24,
+    "humidity": 55.7,
+    "smoke": 277
+  },
+  {
+    "timestamp": "2026-02-13T03:43:36.597Z",
+    "temperature": 24,
+    "humidity": 55.5,
+    "smoke": 450
+  },
+  {
+    "timestamp": "2026-02-13T03:43:42.122Z",
+    "temperature": 24.1,
+    "humidity": 55.5,
+    "smoke": 386
+  },
+  {
+    "timestamp": "2026-02-13T03:43:46.550Z",
+    "temperature": 24.1,
+    "humidity": 55.5,
+    "smoke": 83
+  },
+  {
+    "timestamp": "2026-02-13T03:43:51.742Z",
+    "temperature": 24.1,
+    "humidity": 55.5,
+    "smoke": 0
+  },
+  {
+    "timestamp": "2026-02-13T03:43:56.677Z",
+    "temperature": 0,
+    "humidity": 0,
+    "smoke": 910
+  },
+  {
+    "timestamp": "2026-02-13T03:44:01.592Z",
+    "temperature": 24.1,
+    "humidity": 54.9,
+    "smoke": 985
+  },
+  {
+    "timestamp": "2026-02-13T03:44:06.720Z",
+    "temperature": 24.1,
+    "humidity": 55,
+    "smoke": 953
+  },
+  {
+    "timestamp": "2026-02-13T03:44:11.606Z",
+    "temperature": 0,
+    "humidity": 0,
+    "smoke": 1000
+  },
+  {
+    "timestamp": "2026-02-13T03:44:16.731Z",
+    "temperature": 24.1,
+    "humidity": 55.3,
+    "smoke": 988
+  },
+  {
+    "timestamp": "2026-02-13T03:44:21.540Z",
+    "temperature": 24.1,
+    "humidity": 54.5,
+    "smoke": 983
+  },
+  {
+    "timestamp": "2026-02-13T03:44:26.573Z",
+    "temperature": 24.1,
+    "humidity": 54.7,
+    "smoke": 973
+  },
+  {
+    "timestamp": "2026-02-13T03:44:31.674Z",
+    "temperature": 24.1,
+    "humidity": 54.8,
+    "smoke": 988
+  },
+  {
+    "timestamp": "2026-02-13T03:44:36.590Z",
+    "temperature": 24.1,
+    "humidity": 54.7,
+    "smoke": 989
+  },
+  {
+    "timestamp": "2026-02-13T03:44:41.726Z",
+    "temperature": 24.1,
+    "humidity": 54.9,
+    "smoke": 977
+  },
+  {
+    "timestamp": "2026-02-13T03:44:46.624Z",
+    "temperature": 24.1,
+    "humidity": 54.9,
+    "smoke": 984
+  },
+  {
+    "timestamp": "2026-02-13T03:44:51.540Z",
+    "temperature": 24.1,
+    "humidity": 54.8,
+    "smoke": 985
+  },
+  {
+    "timestamp": "2026-02-13T03:44:56.714Z",
+    "temperature": 24.1,
+    "humidity": 54.6,
+    "smoke": 984
+  },
+  {
+    "timestamp": "2026-02-13T03:45:01.576Z",
+    "temperature": 24.1,
+    "humidity": 54.6,
+    "smoke": 982
+  },
+  {
+    "timestamp": "2026-02-13T03:45:06.697Z",
+    "temperature": 24.1,
+    "humidity": 54.8,
+    "smoke": 984
+  },
+  {
+    "timestamp": "2026-02-13T03:45:11.543Z",
+    "temperature": 24.1,
+    "humidity": 54.8,
+    "smoke": 982
+  },
+  {
+    "timestamp": "2026-02-13T03:45:16.728Z",
+    "temperature": 24.1,
+    "humidity": 55.2,
+    "smoke": 982
+  },
+  {
+    "timestamp": "2026-02-13T03:45:21.665Z",
+    "temperature": 24.1,
+    "humidity": 55.1,
+    "smoke": 984
+  },
+  {
+    "timestamp": "2026-02-13T03:45:26.549Z",
+    "temperature": 24.1,
+    "humidity": 55.2,
+    "smoke": 981
+  },
+  {
+    "timestamp": "2026-02-13T03:45:31.567Z",
+    "temperature": 24.1,
+    "humidity": 55.3,
+    "smoke": 985
+  },
+  {
+    "timestamp": "2026-02-13T03:45:36.595Z",
+    "temperature": 24.1,
+    "humidity": 55.3,
+    "smoke": 984
+  },
+  {
+    "timestamp": "2026-02-13T03:45:41.553Z",
+    "temperature": 24.1,
+    "humidity": 55,
+    "smoke": 982
+  },
+  {
+    "timestamp": "2026-02-13T03:45:47.172Z",
+    "temperature": 24,
+    "humidity": 55.1,
+    "smoke": 984
+  },
+  {
+    "timestamp": "2026-02-13T03:45:51.545Z",
+    "temperature": 24,
+    "humidity": 55.5,
+    "smoke": 980
+  },
+  {
+    "timestamp": "2026-02-13T03:45:56.702Z",
+    "temperature": 24,
+    "humidity": 55.9,
+    "smoke": 981
+  },
+  {
+    "timestamp": "2026-02-13T03:46:01.553Z",
+    "temperature": 24.1,
+    "humidity": 56.3,
+    "smoke": 980
+  },
+  {
+    "timestamp": "2026-02-13T03:46:06.539Z",
+    "temperature": 24.1,
+    "humidity": 56,
+    "smoke": 980
+  },
+  {
+    "timestamp": "2026-02-13T03:46:11.627Z",
+    "temperature": 24.1,
+    "humidity": 55.7,
+    "smoke": 979
+  },
+  {
+    "timestamp": "2026-02-13T03:46:16.554Z",
+    "temperature": 24.1,
+    "humidity": 55.6,
+    "smoke": 980
+  },
+  {
+    "timestamp": "2026-02-13T03:46:21.547Z",
+    "temperature": 24.1,
+    "humidity": 55.5,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-13T03:46:26.568Z",
+    "temperature": 24.1,
+    "humidity": 55.5,
+    "smoke": 979
+  },
+  {
+    "timestamp": "2026-02-13T03:46:31.559Z",
+    "temperature": 24.1,
+    "humidity": 55.5,
+    "smoke": 976
+  },
+  {
+    "timestamp": "2026-02-13T03:46:36.540Z",
+    "temperature": 24.1,
+    "humidity": 55.8,
+    "smoke": 969
+  },
+  {
+    "timestamp": "2026-02-13T03:46:41.716Z",
+    "temperature": 24.1,
+    "humidity": 56.1,
+    "smoke": 977
+  },
+  {
+    "timestamp": "2026-02-13T03:46:46.640Z",
+    "temperature": 24.1,
+    "humidity": 55.8,
+    "smoke": 980
+  },
+  {
+    "timestamp": "2026-02-13T03:46:51.752Z",
+    "temperature": 24.2,
+    "humidity": 56,
+    "smoke": 962
+  },
+  {
+    "timestamp": "2026-02-13T03:46:56.692Z",
+    "temperature": 24.2,
+    "humidity": 56,
+    "smoke": 979
+  },
+  {
+    "timestamp": "2026-02-13T03:47:01.582Z",
+    "temperature": 24.1,
+    "humidity": 55.7,
+    "smoke": 977
+  },
+  {
+    "timestamp": "2026-02-13T03:47:06.707Z",
+    "temperature": 24.1,
+    "humidity": 55.8,
+    "smoke": 977
+  },
+  {
+    "timestamp": "2026-02-13T03:47:11.553Z",
+    "temperature": 24.1,
+    "humidity": 55.7,
+    "smoke": 977
+  },
+  {
+    "timestamp": "2026-02-13T03:47:16.739Z",
+    "temperature": 24.1,
+    "humidity": 56,
+    "smoke": 977
+  },
+  {
+    "timestamp": "2026-02-13T03:47:21.960Z",
+    "temperature": 24.1,
+    "humidity": 55.9,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-13T03:47:26.569Z",
+    "temperature": 24.1,
+    "humidity": 56,
+    "smoke": 977
+  },
+  {
+    "timestamp": "2026-02-13T03:47:31.556Z",
+    "temperature": 24.1,
+    "humidity": 56,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-13T03:47:36.604Z",
+    "temperature": 24.1,
+    "humidity": 55.8,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-13T03:47:41.646Z",
+    "temperature": 24.1,
+    "humidity": 55.9,
+    "smoke": 962
+  },
+  {
+    "timestamp": "2026-02-13T03:47:46.568Z",
+    "temperature": 24,
+    "humidity": 56.1,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-13T03:47:51.761Z",
+    "temperature": 24,
+    "humidity": 55.9,
+    "smoke": 977
+  },
+  {
+    "timestamp": "2026-02-13T03:47:56.604Z",
+    "temperature": 24,
+    "humidity": 56.1,
+    "smoke": 977
+  },
+  {
+    "timestamp": "2026-02-13T03:48:01.613Z",
+    "temperature": 24,
+    "humidity": 56.2,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-13T03:48:06.711Z",
+    "temperature": 24,
+    "humidity": 56.3,
+    "smoke": 980
+  },
+  {
+    "timestamp": "2026-02-13T03:48:11.537Z",
+    "temperature": 24,
+    "humidity": 56.5,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-13T03:48:16.745Z",
+    "temperature": 24.1,
+    "humidity": 56.4,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-13T03:48:21.881Z",
+    "temperature": 24.1,
+    "humidity": 56.4,
+    "smoke": 977
+  },
+  {
+    "timestamp": "2026-02-13T03:48:26.785Z",
+    "temperature": 24.1,
+    "humidity": 56.6,
+    "smoke": 979
+  },
+  {
+    "timestamp": "2026-02-13T03:48:31.699Z",
+    "temperature": 24.1,
+    "humidity": 56.4,
+    "smoke": 978
+  },
+  {
+    "timestamp": "2026-02-13T03:48:36.609Z",
+    "temperature": 24.1,
+    "humidity": 56.8,
+    "smoke": 979
+  },
+  {
+    "timestamp": "2026-02-13T03:48:41.573Z",
+    "temperature": 24.1,
+    "humidity": 56.9,
+    "smoke": 979
+  },
+  {
+    "timestamp": "2026-02-13T03:48:46.539Z",
+    "temperature": 24.2,
+    "humidity": 57.3,
+    "smoke": 976
+  },
+  {
+    "timestamp": "2026-02-13T03:48:51.560Z",
+    "temperature": 24.2,
+    "humidity": 57,
+    "smoke": 757
+  },
+  {
+    "timestamp": "2026-02-13T03:48:56.708Z",
+    "temperature": 24.2,
+    "humidity": 56.8,
+    "smoke": 920
+  },
+  {
+    "timestamp": "2026-02-13T03:49:02.130Z",
+    "temperature": 24.2,
+    "humidity": 56.5,
+    "smoke": 909
+  },
+  {
+    "timestamp": "2026-02-13T03:49:06.599Z",
+    "temperature": 24.2,
+    "humidity": 56,
+    "smoke": 910
+  },
+  {
+    "timestamp": "2026-02-13T03:49:11.617Z",
+    "temperature": 24.2,
+    "humidity": 56.2,
+    "smoke": 807
+  },
+  {
+    "timestamp": "2026-02-13T03:49:16.968Z",
+    "temperature": 24.2,
+    "humidity": 56.2,
+    "smoke": 794
+  },
+  {
+    "timestamp": "2026-02-13T03:49:21.797Z",
+    "temperature": 24.3,
+    "humidity": 56.6,
+    "smoke": 812
+  },
+  {
+    "timestamp": "2026-02-13T03:49:26.561Z",
+    "temperature": 24.3,
+    "humidity": 56.7,
+    "smoke": 816
+  },
+  {
+    "timestamp": "2026-02-13T03:49:31.592Z",
+    "temperature": 24.3,
+    "humidity": 56.3,
+    "smoke": 817
+  },
+  {
+    "timestamp": "2026-02-13T03:49:36.633Z",
+    "temperature": 24.3,
+    "humidity": 55.9,
+    "smoke": 813
+  },
+  {
+    "timestamp": "2026-02-13T03:49:42.250Z",
+    "temperature": 24.3,
+    "humidity": 55.8,
+    "smoke": 814
+  },
+  {
+    "timestamp": "2026-02-13T03:49:46.730Z",
+    "temperature": 24.4,
+    "humidity": 56,
+    "smoke": 810
+  },
+  {
+    "timestamp": "2026-02-13T03:49:51.568Z",
+    "temperature": 24.4,
+    "humidity": 55.8,
+    "smoke": 809
+  },
+  {
+    "timestamp": "2026-02-13T03:49:57.122Z",
+    "temperature": 24.4,
+    "humidity": 56.2,
+    "smoke": 812
+  },
+  {
+    "timestamp": "2026-02-13T03:50:01.816Z",
+    "temperature": 24.5,
+    "humidity": 56.2,
+    "smoke": 811
+  },
+  {
+    "timestamp": "2026-02-13T03:50:06.576Z",
+    "temperature": 24.5,
+    "humidity": 56.2,
+    "smoke": 816
+  },
+  {
+    "timestamp": "2026-02-13T03:50:11.641Z",
+    "temperature": 24.5,
+    "humidity": 55.8,
+    "smoke": 812
+  },
+  {
+    "timestamp": "2026-02-13T03:50:16.553Z",
+    "temperature": 24.6,
+    "humidity": 55.3,
+    "smoke": 810
+  },
+  {
+    "timestamp": "2026-02-13T03:50:21.641Z",
+    "temperature": 24.6,
+    "humidity": 55.3,
+    "smoke": 811
+  },
+  {
+    "timestamp": "2026-02-13T03:50:26.589Z",
+    "temperature": 24.6,
+    "humidity": 55.5,
+    "smoke": 809
+  },
+  {
+    "timestamp": "2026-02-13T03:50:32.084Z",
+    "temperature": 24.6,
+    "humidity": 55.5,
+    "smoke": 809
+  },
+  {
+    "timestamp": "2026-02-13T03:50:36.610Z",
+    "temperature": 24.6,
+    "humidity": 55.2,
+    "smoke": 809
+  },
+  {
+    "timestamp": "2026-02-13T03:50:41.861Z",
+    "temperature": 24.6,
+    "humidity": 55.1,
+    "smoke": 809
+  },
+  {
+    "timestamp": "2026-02-13T03:50:46.627Z",
+    "temperature": 24.6,
+    "humidity": 55.2,
+    "smoke": 806
+  },
+  {
+    "timestamp": "2026-02-13T03:50:51.574Z",
+    "temperature": 24.6,
+    "humidity": 55.5,
+    "smoke": 808
+  },
+  {
+    "timestamp": "2026-02-13T03:50:56.728Z",
+    "temperature": 24.6,
+    "humidity": 55.6,
+    "smoke": 808
+  },
+  {
+    "timestamp": "2026-02-13T03:51:01.613Z",
+    "temperature": 24.6,
+    "humidity": 55.5,
+    "smoke": 810
+  },
+  {
+    "timestamp": "2026-02-13T03:51:06.601Z",
+    "temperature": 24.5,
+    "humidity": 55.3,
+    "smoke": 808
+  },
+  {
+    "timestamp": "2026-02-13T03:51:11.699Z",
+    "temperature": 24.5,
+    "humidity": 55.6,
+    "smoke": 809
+  },
+  {
+    "timestamp": "2026-02-13T03:51:16.972Z",
+    "temperature": 24.5,
+    "humidity": 55.6,
+    "smoke": 809
+  },
+  {
+    "timestamp": "2026-02-13T03:51:21.679Z",
+    "temperature": 24.5,
+    "humidity": 55.6,
+    "smoke": 808
+  },
+  {
+    "timestamp": "2026-02-13T03:51:26.594Z",
+    "temperature": 24.6,
+    "humidity": 55.8,
+    "smoke": 807
+  },
+  {
+    "timestamp": "2026-02-13T03:51:31.615Z",
+    "temperature": 24.6,
+    "humidity": 55.7,
+    "smoke": 810
+  },
+  {
+    "timestamp": "2026-02-13T03:51:36.842Z",
+    "temperature": 24.6,
+    "humidity": 55.7,
+    "smoke": 810
+  },
+  {
+    "timestamp": "2026-02-13T03:51:42.051Z",
+    "temperature": 24.6,
+    "humidity": 55.9,
+    "smoke": 793
+  },
+  {
+    "timestamp": "2026-02-13T03:51:47.083Z",
+    "temperature": 24.6,
+    "humidity": 55.3,
+    "smoke": 814
+  },
+  {
+    "timestamp": "2026-02-13T03:51:51.998Z",
+    "temperature": 24.6,
+    "humidity": 55.5,
+    "smoke": 812
+  },
+  {
+    "timestamp": "2026-02-13T03:51:56.841Z",
+    "temperature": 24.6,
+    "humidity": 55.2,
+    "smoke": 792
+  },
+  {
+    "timestamp": "2026-02-13T03:52:01.916Z",
+    "temperature": 24.6,
+    "humidity": 55.7,
+    "smoke": 809
+  },
+  {
+    "timestamp": "2026-02-13T03:52:06.798Z",
+    "temperature": 24.6,
+    "humidity": 55.7,
+    "smoke": 810
+  },
+  {
+    "timestamp": "2026-02-13T03:52:12.464Z",
+    "temperature": 24.6,
+    "humidity": 55.9,
+    "smoke": 813
+  },
+  {
+    "timestamp": "2026-02-13T03:52:16.666Z",
+    "temperature": 24.6,
+    "humidity": 55.9,
+    "smoke": 812
+  },
+  {
+    "timestamp": "2026-02-13T03:52:22.195Z",
+    "temperature": 24.6,
+    "humidity": 55.8,
+    "smoke": 812
+  },
+  {
+    "timestamp": "2026-02-13T03:52:27.007Z",
+    "temperature": 24.6,
+    "humidity": 55.7,
+    "smoke": 812
+  },
+  {
+    "timestamp": "2026-02-13T03:52:31.596Z",
+    "temperature": 24.6,
+    "humidity": 55.4,
+    "smoke": 812
+  },
+  {
+    "timestamp": "2026-02-13T03:52:36.633Z",
+    "temperature": 24.6,
+    "humidity": 55.6,
+    "smoke": 816
+  },
+  {
+    "timestamp": "2026-02-13T03:52:41.962Z",
+    "temperature": 24.6,
+    "humidity": 55.8,
+    "smoke": 902
+  },
+  {
+    "timestamp": "2026-02-13T03:52:46.570Z",
+    "temperature": 24.6,
+    "humidity": 55.8,
+    "smoke": 909
+  },
+  {
+    "timestamp": "2026-02-13T03:52:51.590Z",
+    "temperature": 24.6,
+    "humidity": 55.7,
+    "smoke": 910
+  },
+  {
+    "timestamp": "2026-02-13T03:52:58.036Z",
+    "temperature": 24.6,
+    "humidity": 55.5,
+    "smoke": 911
+  },
+  {
+    "timestamp": "2026-02-13T03:53:01.832Z",
+    "temperature": 24.6,
+    "humidity": 55.7,
+    "smoke": 925
+  },
+  {
+    "timestamp": "2026-02-13T03:53:06.590Z",
+    "temperature": 24.7,
+    "humidity": 55.8,
+    "smoke": 914
+  },
+  {
+    "timestamp": "2026-02-13T03:53:11.549Z",
+    "temperature": 24.7,
+    "humidity": 56.1,
+    "smoke": 913
+  },
+  {
+    "timestamp": "2026-02-13T03:53:16.544Z",
+    "temperature": 24.7,
+    "humidity": 55.8,
+    "smoke": 950
+  },
+  {
+    "timestamp": "2026-02-13T03:53:21.894Z",
+    "temperature": 24.7,
+    "humidity": 55.9,
+    "smoke": 952
+  },
+  {
+    "timestamp": "2026-02-13T03:53:26.582Z",
+    "temperature": 24.7,
+    "humidity": 55.8,
+    "smoke": 953
+  },
+  {
+    "timestamp": "2026-02-13T03:53:31.928Z",
+    "temperature": 24.8,
+    "humidity": 56.3,
+    "smoke": 956
+  },
+  {
+    "timestamp": "2026-02-13T03:53:36.948Z",
+    "temperature": 24.8,
+    "humidity": 55.9,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T03:53:42.379Z",
+    "temperature": 24.8,
+    "humidity": 56,
+    "smoke": 930
+  },
+  {
+    "timestamp": "2026-02-13T03:53:46.728Z",
+    "temperature": 24.8,
+    "humidity": 55.3,
+    "smoke": 919
+  },
+  {
+    "timestamp": "2026-02-13T03:53:51.560Z",
+    "temperature": 24.8,
+    "humidity": 55.3,
+    "smoke": 922
+  },
+  {
+    "timestamp": "2026-02-13T03:53:57.147Z",
+    "temperature": 24.8,
+    "humidity": 55.4,
+    "smoke": 919
+  },
+  {
+    "timestamp": "2026-02-13T03:54:01.841Z",
+    "temperature": 24.8,
+    "humidity": 55.4,
+    "smoke": 904
+  },
+  {
+    "timestamp": "2026-02-13T03:54:07.162Z",
+    "temperature": 24.8,
+    "humidity": 55.6,
+    "smoke": 905
+  },
+  {
+    "timestamp": "2026-02-13T03:54:11.661Z",
+    "temperature": 24.8,
+    "humidity": 55.4,
+    "smoke": 922
+  },
+  {
+    "timestamp": "2026-02-13T03:54:17.000Z",
+    "temperature": 24.9,
+    "humidity": 55.4,
+    "smoke": 811
+  },
+  {
+    "timestamp": "2026-02-13T03:54:21.695Z",
+    "temperature": 24.8,
+    "humidity": 54.7,
+    "smoke": 810
+  },
+  {
+    "timestamp": "2026-02-13T03:54:26.619Z",
+    "temperature": 24.8,
+    "humidity": 55.1,
+    "smoke": 806
+  },
+  {
+    "timestamp": "2026-02-13T03:54:31.736Z",
+    "temperature": 24.7,
+    "humidity": 55.3,
+    "smoke": 816
+  },
+  {
+    "timestamp": "2026-02-13T03:54:36.544Z",
+    "temperature": 24.7,
+    "humidity": 55.7,
+    "smoke": 891
+  },
+  {
+    "timestamp": "2026-02-13T03:54:41.569Z",
+    "temperature": 24.7,
+    "humidity": 55.3,
+    "smoke": 898
+  },
+  {
+    "timestamp": "2026-02-13T03:54:46.780Z",
+    "temperature": 24.7,
+    "humidity": 55.3,
+    "smoke": 899
+  },
+  {
+    "timestamp": "2026-02-13T03:54:51.898Z",
+    "temperature": 24.7,
+    "humidity": 55.4,
+    "smoke": 901
+  },
+  {
+    "timestamp": "2026-02-13T03:54:57.049Z",
+    "temperature": 24.6,
+    "humidity": 56.2,
+    "smoke": 886
+  },
+  {
+    "timestamp": "2026-02-13T03:55:01.858Z",
+    "temperature": 24.7,
+    "humidity": 56.2,
+    "smoke": 902
+  },
+  {
+    "timestamp": "2026-02-13T03:55:06.992Z",
+    "temperature": 24.7,
+    "humidity": 56,
+    "smoke": 897
+  },
+  {
+    "timestamp": "2026-02-13T03:55:11.564Z",
+    "temperature": 24.6,
+    "humidity": 55.9,
+    "smoke": 917
+  },
+  {
+    "timestamp": "2026-02-13T03:55:16.988Z",
+    "temperature": 24.6,
+    "humidity": 55.8,
+    "smoke": 917
+  },
+  {
+    "timestamp": "2026-02-13T03:55:21.783Z",
+    "temperature": 24.6,
+    "humidity": 55.9,
+    "smoke": 918
+  },
+  {
+    "timestamp": "2026-02-13T03:55:26.567Z",
+    "temperature": 24.7,
+    "humidity": 56,
+    "smoke": 915
+  },
+  {
+    "timestamp": "2026-02-13T03:55:32.141Z",
+    "temperature": 24.7,
+    "humidity": 56,
+    "smoke": 915
+  },
+  {
+    "timestamp": "2026-02-13T03:55:36.858Z",
+    "temperature": 24.7,
+    "humidity": 56,
+    "smoke": 900
+  },
+  {
+    "timestamp": "2026-02-13T03:55:42.055Z",
+    "temperature": 24.7,
+    "humidity": 55.7,
+    "smoke": 916
+  },
+  {
+    "timestamp": "2026-02-13T03:55:46.987Z",
+    "temperature": 24.7,
+    "humidity": 55.5,
+    "smoke": 916
+  },
+  {
+    "timestamp": "2026-02-13T03:55:51.551Z",
+    "temperature": 24.7,
+    "humidity": 55.7,
+    "smoke": 918
+  },
+  {
+    "timestamp": "2026-02-13T03:55:57.737Z",
+    "temperature": 24.8,
+    "humidity": 55.9,
+    "smoke": 916
+  },
+  {
+    "timestamp": "2026-02-13T03:56:01.939Z",
+    "temperature": 24.8,
+    "humidity": 55.7,
+    "smoke": 917
+  },
+  {
+    "timestamp": "2026-02-13T03:56:06.544Z",
+    "temperature": 24.8,
+    "humidity": 55.8,
+    "smoke": 894
+  },
+  {
+    "timestamp": "2026-02-13T03:56:12.592Z",
+    "temperature": 24.8,
+    "humidity": 55.8,
+    "smoke": 894
+  },
+  {
+    "timestamp": "2026-02-13T03:56:16.602Z",
+    "temperature": 24.8,
+    "humidity": 56,
+    "smoke": 911
+  },
+  {
+    "timestamp": "2026-02-13T03:56:21.586Z",
+    "temperature": 24.8,
+    "humidity": 55.8,
+    "smoke": 916
+  },
+  {
+    "timestamp": "2026-02-13T03:56:26.572Z",
+    "temperature": 24.8,
+    "humidity": 55.4,
+    "smoke": 916
+  },
+  {
+    "timestamp": "2026-02-13T03:56:31.537Z",
+    "temperature": 24.8,
+    "humidity": 55.4,
+    "smoke": 915
+  },
+  {
+    "timestamp": "2026-02-13T03:56:36.548Z",
+    "temperature": 24.8,
+    "humidity": 55.7,
+    "smoke": 916
+  },
+  {
+    "timestamp": "2026-02-13T03:56:42.492Z",
+    "temperature": 24.8,
+    "humidity": 55.9,
+    "smoke": 917
+  },
+  {
+    "timestamp": "2026-02-13T03:56:46.748Z",
+    "temperature": 24.9,
+    "humidity": 56.2,
+    "smoke": 918
+  },
+  {
+    "timestamp": "2026-02-13T03:56:51.604Z",
+    "temperature": 24.9,
+    "humidity": 56,
+    "smoke": 918
+  },
+  {
+    "timestamp": "2026-02-13T03:56:56.952Z",
+    "temperature": 24.9,
+    "humidity": 55.8,
+    "smoke": 915
+  },
+  {
+    "timestamp": "2026-02-13T03:57:01.717Z",
+    "temperature": 24.9,
+    "humidity": 55.6,
+    "smoke": 917
+  },
+  {
+    "timestamp": "2026-02-13T03:57:06.563Z",
+    "temperature": 24.9,
+    "humidity": 55.6,
+    "smoke": 915
+  },
+  {
+    "timestamp": "2026-02-13T03:57:11.743Z",
+    "temperature": 24.9,
+    "humidity": 55.4,
+    "smoke": 918
+  },
+  {
+    "timestamp": "2026-02-13T03:57:17.003Z",
+    "temperature": 24.9,
+    "humidity": 55.4,
+    "smoke": 917
+  },
+  {
+    "timestamp": "2026-02-13T03:57:21.591Z",
+    "temperature": 25,
+    "humidity": 55.6,
+    "smoke": 918
+  },
+  {
+    "timestamp": "2026-02-13T03:57:26.545Z",
+    "temperature": 25,
+    "humidity": 55.4,
+    "smoke": 917
+  },
+  {
+    "timestamp": "2026-02-13T03:57:32.257Z",
+    "temperature": 25,
+    "humidity": 55.5,
+    "smoke": 903
+  },
+  {
+    "timestamp": "2026-02-13T03:57:36.866Z",
+    "temperature": 25,
+    "humidity": 55.6,
+    "smoke": 902
+  },
+  {
+    "timestamp": "2026-02-13T03:57:42.907Z",
+    "temperature": 25,
+    "humidity": 55.4,
+    "smoke": 904
+  },
+  {
+    "timestamp": "2026-02-13T03:57:46.538Z",
+    "temperature": 25.1,
+    "humidity": 55.2,
+    "smoke": 919
+  },
+  {
+    "timestamp": "2026-02-13T03:57:51.556Z",
+    "temperature": 25.1,
+    "humidity": 54.9,
+    "smoke": 919
+  },
+  {
+    "timestamp": "2026-02-13T03:57:57.253Z",
+    "temperature": 25.1,
+    "humidity": 55,
+    "smoke": 919
+  },
+  {
+    "timestamp": "2026-02-13T03:58:01.638Z",
+    "temperature": 25.1,
+    "humidity": 54.9,
+    "smoke": 919
+  },
+  {
+    "timestamp": "2026-02-13T03:58:06.973Z",
+    "temperature": 25.1,
+    "humidity": 54.9,
+    "smoke": 921
+  },
+  {
+    "timestamp": "2026-02-13T03:58:11.782Z",
+    "temperature": 25.1,
+    "humidity": 54.7,
+    "smoke": 931
+  },
+  {
+    "timestamp": "2026-02-13T03:58:16.604Z",
+    "temperature": 25.1,
+    "humidity": 54.9,
+    "smoke": 920
+  },
+  {
+    "timestamp": "2026-02-13T03:58:21.549Z",
+    "temperature": 25.1,
+    "humidity": 54.9,
+    "smoke": 921
+  },
+  {
+    "timestamp": "2026-02-13T03:58:26.648Z",
+    "temperature": 25.1,
+    "humidity": 55.1,
+    "smoke": 919
+  },
+  {
+    "timestamp": "2026-02-13T03:58:31.754Z",
+    "temperature": 25.1,
+    "humidity": 54.9,
+    "smoke": 925
+  },
+  {
+    "timestamp": "2026-02-13T03:58:36.545Z",
+    "temperature": 25.1,
+    "humidity": 54.9,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T03:58:41.561Z",
+    "temperature": 25.1,
+    "humidity": 55.2,
+    "smoke": 927
+  },
+  {
+    "timestamp": "2026-02-13T03:58:46.579Z",
+    "temperature": 25.1,
+    "humidity": 54.5,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T03:58:51.621Z",
+    "temperature": 25.1,
+    "humidity": 54.5,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T03:58:56.758Z",
+    "temperature": 25.1,
+    "humidity": 54.8,
+    "smoke": 919
+  },
+  {
+    "timestamp": "2026-02-13T03:59:01.547Z",
+    "temperature": 25.1,
+    "humidity": 55.1,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T03:59:06.637Z",
+    "temperature": 25.1,
+    "humidity": 55,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T03:59:11.698Z",
+    "temperature": 25.1,
+    "humidity": 54.6,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T03:59:16.639Z",
+    "temperature": 25.1,
+    "humidity": 54.6,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T03:59:21.833Z",
+    "temperature": 25.1,
+    "humidity": 55,
+    "smoke": 925
+  },
+  {
+    "timestamp": "2026-02-13T03:59:26.939Z",
+    "temperature": 25.1,
+    "humidity": 54.7,
+    "smoke": 925
+  },
+  {
+    "timestamp": "2026-02-13T03:59:31.960Z",
+    "temperature": 25.1,
+    "humidity": 54.5,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T03:59:36.891Z",
+    "temperature": 25.1,
+    "humidity": 54.3,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T03:59:41.869Z",
+    "temperature": 25.1,
+    "humidity": 54.2,
+    "smoke": 925
+  },
+  {
+    "timestamp": "2026-02-13T03:59:46.580Z",
+    "temperature": 25.1,
+    "humidity": 54.5,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T03:59:51.604Z",
+    "temperature": 25,
+    "humidity": 54.8,
+    "smoke": 927
+  },
+  {
+    "timestamp": "2026-02-13T03:59:56.967Z",
+    "temperature": 25,
+    "humidity": 54.2,
+    "smoke": 912
+  },
+  {
+    "timestamp": "2026-02-13T04:00:01.635Z",
+    "temperature": 25,
+    "humidity": 54.6,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T04:00:06.545Z",
+    "temperature": 24.9,
+    "humidity": 55,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T04:00:11.596Z",
+    "temperature": 24.9,
+    "humidity": 55.1,
+    "smoke": 925
+  },
+  {
+    "timestamp": "2026-02-13T04:00:16.554Z",
+    "temperature": 24.9,
+    "humidity": 55.3,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T04:00:21.610Z",
+    "temperature": 24.9,
+    "humidity": 54.9,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T04:00:26.634Z",
+    "temperature": 24.9,
+    "humidity": 54.6,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T04:00:31.977Z",
+    "temperature": 24.9,
+    "humidity": 54.4,
+    "smoke": 925
+  },
+  {
+    "timestamp": "2026-02-13T04:00:36.983Z",
+    "temperature": 24.9,
+    "humidity": 54.6,
+    "smoke": 925
+  },
+  {
+    "timestamp": "2026-02-13T04:00:41.600Z",
+    "temperature": 24.9,
+    "humidity": 54.7,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T04:00:46.597Z",
+    "temperature": 24.9,
+    "humidity": 54.6,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T04:00:51.564Z",
+    "temperature": 24.9,
+    "humidity": 54.9,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T04:00:56.771Z",
+    "temperature": 24.8,
+    "humidity": 54.8,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T04:01:02.091Z",
+    "temperature": 24.8,
+    "humidity": 55.1,
+    "smoke": 925
+  },
+  {
+    "timestamp": "2026-02-13T04:01:06.887Z",
+    "temperature": 24.8,
+    "humidity": 55,
+    "smoke": 924
+  },
+  {
+    "timestamp": "2026-02-13T04:01:11.796Z",
+    "temperature": 24.8,
+    "humidity": 55,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T04:01:17.242Z",
+    "temperature": 24.8,
+    "humidity": 55.1,
+    "smoke": 925
+  },
+  {
+    "timestamp": "2026-02-13T04:01:21.949Z",
+    "temperature": 24.8,
+    "humidity": 55.1,
+    "smoke": 924
+  },
+  {
+    "timestamp": "2026-02-13T04:01:26.874Z",
+    "temperature": 24.8,
+    "humidity": 54.8,
+    "smoke": 925
+  },
+  {
+    "timestamp": "2026-02-13T04:01:31.577Z",
+    "temperature": 24.8,
+    "humidity": 55.3,
+    "smoke": 924
+  },
+  {
+    "timestamp": "2026-02-13T04:01:36.543Z",
+    "temperature": 24.8,
+    "humidity": 55.2,
+    "smoke": 923
+  },
+  {
+    "timestamp": "2026-02-13T04:01:41.679Z",
+    "temperature": 24.8,
+    "humidity": 55.2,
+    "smoke": 925
+  },
+  {
+    "timestamp": "2026-02-13T04:01:46.796Z",
+    "temperature": 24.8,
+    "humidity": 55.2,
+    "smoke": 907
+  },
+  {
+    "timestamp": "2026-02-13T04:01:52.044Z",
+    "temperature": 24.8,
+    "humidity": 55,
+    "smoke": 924
+  },
+  {
+    "timestamp": "2026-02-13T04:01:56.551Z",
+    "temperature": 24.8,
+    "humidity": 54.8,
+    "smoke": 924
+  },
+  {
+    "timestamp": "2026-02-13T04:02:01.720Z",
+    "temperature": 24.8,
+    "humidity": 54.7,
+    "smoke": 923
+  },
+  {
+    "timestamp": "2026-02-13T04:02:06.844Z",
+    "temperature": 24.8,
+    "humidity": 55.1,
+    "smoke": 923
+  },
+  {
+    "timestamp": "2026-02-13T04:02:12.218Z",
+    "temperature": 24.7,
+    "humidity": 54.9,
+    "smoke": 923
+  },
+  {
+    "timestamp": "2026-02-13T04:02:16.556Z",
+    "temperature": 24.7,
+    "humidity": 55.2,
+    "smoke": 923
+  },
+  {
+    "timestamp": "2026-02-13T04:02:21.617Z",
+    "temperature": 24.7,
+    "humidity": 55.1,
+    "smoke": 913
+  },
+  {
+    "timestamp": "2026-02-13T04:02:26.770Z",
+    "temperature": 24.7,
+    "humidity": 55.1,
+    "smoke": 926
+  },
+  {
+    "timestamp": "2026-02-13T04:02:31.799Z",
+    "temperature": 24.7,
+    "humidity": 55.2,
+    "smoke": 922
+  },
+  {
+    "timestamp": "2026-02-13T04:02:36.794Z",
+    "temperature": 24.7,
+    "humidity": 55.1,
+    "smoke": 923
+  },
+  {
+    "timestamp": "2026-02-13T04:02:41.546Z",
+    "temperature": 24.7,
+    "humidity": 55.1,
+    "smoke": 923
+  },
+  {
+    "timestamp": "2026-02-13T04:02:47.031Z",
+    "temperature": 24.7,
+    "humidity": 55.2,
+    "smoke": 916
+  },
+  {
+    "timestamp": "2026-02-13T04:02:51.757Z",
+    "temperature": 24.7,
+    "humidity": 55.2,
+    "smoke": 872
+  },
+  {
+    "timestamp": "2026-02-13T04:02:56.557Z",
+    "temperature": 24.7,
+    "humidity": 55.3,
+    "smoke": 867
+  },
+  {
+    "timestamp": "2026-02-13T04:03:01.547Z",
+    "temperature": 24.7,
+    "humidity": 55.7,
+    "smoke": 871
+  },
+  {
+    "timestamp": "2026-02-13T04:03:06.851Z",
+    "temperature": 24.7,
+    "humidity": 56.1,
+    "smoke": 872
+  },
+  {
+    "timestamp": "2026-02-13T04:03:11.581Z",
+    "temperature": 24.7,
+    "humidity": 55.7,
+    "smoke": 983
+  },
+  {
+    "timestamp": "2026-02-13T04:03:16.935Z",
+    "temperature": 24.7,
+    "humidity": 55.1,
+    "smoke": 953
+  }
+]
