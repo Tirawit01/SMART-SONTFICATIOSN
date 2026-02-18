@@ -1,0 +1,118 @@
+#include <WiFi.h>
+#include <HTTPClient.h>
+#include <ArduinoJson.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_ST7735.h>
+#include <SPI.h>
+
+#define BUZZER_PIN 27
+#define TFT_CS   5
+#define TFT_DC   16
+#define TFT_RST  4
+
+#define TEMP_ALERT 35
+#define HUMI_ALERT 80
+#define SMOKE_ALERT 600
+
+const char* ssid = "I LOVE YOU"; // ssid
+const char* password = "I LOVE YOU"; // password
+
+const char* API_URL = "http://10.222.119.169:3000/api/current/temperature"; // http://{ip}:3000/api/current/temperature"; 
+
+Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_RST);
+
+bool buzzerActive=false;
+unsigned long buzzerStart=0;
+unsigned long lastFetch=0;
+
+// ---------- UI ----------
+void drawUI(float t,float h,float s,bool alert){
+
+  tft.fillScreen(ST77XX_BLACK);
+
+  tft.setTextSize(2);
+  tft.setTextColor(ST77XX_CYAN);
+  tft.setCursor(35,5);
+  tft.print("SNOTI");
+
+  tft.drawRect(0,30,160,95,ST77XX_BLUE);
+
+  tft.setTextSize(1);
+  tft.setTextColor(ST77XX_WHITE);
+
+  tft.setCursor(10,40);
+  tft.printf("TEMP : %.1f C",t);
+
+  tft.setCursor(10,60);
+  tft.printf("HUMI : %.0f %%",h);
+
+  tft.setCursor(10,80);
+  tft.printf("SMOKE: %.0f ppm",s);
+
+  tft.setCursor(10,105);
+  tft.setTextColor(alert?ST77XX_RED:ST77XX_GREEN);
+  tft.print(alert?"STATUS: ALERT":"STATUS: NORMAL");
+}
+
+// ---------- FETCH API ----------
+void fetchAPI(){
+
+  if(WiFi.status()!=WL_CONNECTED) return;
+
+  HTTPClient http;
+  http.begin(API_URL);
+
+  if(http.GET()==200){
+
+    StaticJsonDocument<256> doc;
+    deserializeJson(doc,http.getString());
+
+    float t=doc["temperature"];
+    float h=doc["humidity"];
+    float s=doc["smoke"];
+
+    bool alert=(t>TEMP_ALERT||h>HUMI_ALERT||s>SMOKE_ALERT);
+
+    drawUI(t,h,s,alert);
+
+    if(alert&&!buzzerActive){
+      buzzerActive=true;
+      buzzerStart=millis();
+      tone(BUZZER_PIN,2200);
+    }
+  }
+
+  http.end();
+}
+
+// ---------- BUZZER ----------
+void handleBuzzer(){
+  if(buzzerActive && millis()-buzzerStart>8000){
+    noTone(BUZZER_PIN);
+    buzzerActive=false;
+  }
+}
+
+// ---------- SETUP ----------
+void setup(){
+
+  Serial.begin(115200);
+  pinMode(BUZZER_PIN,OUTPUT);
+
+  WiFi.begin(ssid,password);
+  while(WiFi.status()!=WL_CONNECTED) delay(300);
+
+  tft.initR(INITR_BLACKTAB);
+  tft.setRotation(1);
+}
+
+// ---------- LOOP ----------
+void loop(){
+
+  if(millis()-lastFetch>3000){
+    lastFetch=millis();
+    fetchAPI();
+  }
+
+  handleBuzzer();
+}

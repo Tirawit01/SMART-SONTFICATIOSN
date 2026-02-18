@@ -1,0 +1,102 @@
+#define BLYNK_TEMPLATE_ID "TMPL6a6IK-NbL"
+#define BLYNK_TEMPLATE_NAME "SNOTI"
+#define BLYNK_AUTH_TOKEN "YqZ28wIMOxvzs2u0tjrPpVhbOoQ17ZPd"
+
+#include <WiFi.h>
+#include <HTTPClient.h>
+#include <DHT.h>
+#include <BlynkSimpleEsp32.h>
+
+// ---------------- CONFIG ----------------
+#define DHTPIN 15
+#define DHTTYPE DHT22
+#define MQ2_PIN 32   // ใช้ ADC1 (32/33) ห้ามใช้ 34+
+
+const char* ssid = "I LOVE YOU"; // ssid
+const char* password = "I LOVE YOU"; // password
+const char* serverUrl = "http://10.222.119.169:3000/data"; // http://{ip}:3000/api/current/temperature"; 
+
+
+// ---------------- OBJECT ----------------
+DHT dht(DHTPIN, DHTTYPE);
+BlynkTimer timer;
+
+// ---------------- BLYNK BUTTON ----------------
+bool sendDataEnabled = true;
+
+BLYNK_WRITE(V0) {
+  sendDataEnabled = param.asInt() == 1;
+}
+
+// ---------------- SEND DATA ----------------
+void sendData() {
+
+  if (!sendDataEnabled) return;
+
+  float humidity = dht.readHumidity();
+  float temperature = dht.readTemperature();
+  int smokeRaw = analogRead(MQ2_PIN);
+  float smoke_ppm = map(smokeRaw, 0, 4095, 0, 1000);
+
+  Serial.printf("🌡 %.2f | 💧 %.2f | 🔥 %.1f\n",
+                temperature, humidity, smoke_ppm);
+
+  Blynk.virtualWrite(V1, humidity);
+  Blynk.virtualWrite(V2, temperature);
+  Blynk.virtualWrite(V3, smoke_ppm);
+
+  if (WiFi.status() == WL_CONNECTED) {
+
+    WiFiClient client;
+    HTTPClient http;
+
+    http.begin(client, serverUrl);
+    http.addHeader("Content-Type", "application/json");
+
+    String json = "{";
+    json += "\"temperature\":" + String(temperature,2) + ",";
+    json += "\"humidity\":" + String(humidity,2) + ",";
+    json += "\"smoke\":" + String(smoke_ppm,1);
+    json += "}";
+
+    int code = http.POST(json);
+
+    if (code > 0) {
+      Serial.println("📤 POST OK");
+      Serial.println(http.getString());
+    } else {
+      Serial.println("❌ POST FAIL");
+    }
+
+    http.end();
+  }
+}
+
+// ---------------- SETUP ----------------
+void setup() {
+
+  Serial.begin(115200);
+
+  WiFi.begin(ssid, password);
+  Serial.print("WiFi");
+
+  while (WiFi.status() != WL_CONNECTED) {
+    delay(500);
+    Serial.print(".");
+  }
+
+  Serial.println("\n✅ WiFi Connected");
+  Serial.println(WiFi.localIP());
+
+  Blynk.begin(BLYNK_AUTH_TOKEN, ssid, password);
+
+  dht.begin();
+
+  timer.setInterval(5000L, sendData);
+}
+
+// ---------------- LOOP ----------------
+void loop() {
+  Blynk.run();
+  timer.run();
+}
